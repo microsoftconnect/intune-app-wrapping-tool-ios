@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AadAuthorityURI</key>
+	<string>https://login.windows.net/common/oauth2/authorize</string>
+	<key>AadDefaultClientID</key>
+	<string>6c7e8096-f593-4d72-807f-a5f86dcc9c77</string>
+	<key>AadRedirectURI</key>
+	<string>urn:ietf:wg:oauth:2.0:oob</string>
+	<key>LocationServiceURI</key>
+	<string>https://sconline-int.microsoft.com/RestUserAuthLocationService/RestUserAuthLocationService/Certificate/ServiceAddresses</string>
+	<key>UsePPE</key>
+	<false/>
+</dict>
+</plist>

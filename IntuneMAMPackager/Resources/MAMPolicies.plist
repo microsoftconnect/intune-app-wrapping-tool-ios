@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IntuneMAMPolicyVersion</key>
+	<string>1.0</string>
+	<key>IntuneMAMPolicies</key>
+	<dict>
+		<key>AccessRecheckOfflineTimeout</key>
+		<integer>720</integer>
+		<key>AccessRecheckOnlineTimeout</key>
+		<integer>30</integer>
+		<key>AppSharingFromLevel</key>
+		<integer>1</integer>
+		<key>AppSharingToLevel</key>
+		<integer>1</integer>
+		<key>AuthenticationEnabled</key>
+		<false/>
+		<key>ClipboardSharingLevel</key>
+		<integer>2</integer>
+		<key>DataBackupDisabled</key>
+		<true/>
+		<key>DeviceComplianceEnabled</key>
+		<true/>
+		<key>FileEncryptionLevel</key>
+		<integer>1</integer>
+		<key>RequireFileEncryption</key>
+		<false/>
+		<key>FileSharingSaveAsDisabled</key>
+		<true/>
+		<key>ManagedBrowserRequired</key>
+		<true/>
+		<key>PINEnabled</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
