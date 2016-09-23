@@ -2,6 +2,7 @@
 //  Copyright (c) Microsoft Corporation. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import "IntuneMAMAppConfig.h"
 
 // Notification name for MAM service App Configuration change notifications.

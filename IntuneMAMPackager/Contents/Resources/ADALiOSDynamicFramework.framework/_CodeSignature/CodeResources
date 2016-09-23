@@ -68,61 +68,159 @@
 	<key>files2</key>
 	<dict>
 		<key>Headers/ADAL.h</key>
-		<data>
-		FU10S+IUvnERKRBgRTO/k43viws=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			FU10S+IUvnERKRBgRTO/k43viws=
+			</data>
+			<key>hash2</key>
+			<data>
+			tDSP3W9wz4r4EWUd+S8qmlEyc0vzf1eNPA2TjAnjpq0=
+			</data>
+		</dict>
 		<key>Headers/ADAuthenticationBroker.h</key>
-		<data>
-		giRi+M2Lqe7UrYcD+1fo56kf78w=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			giRi+M2Lqe7UrYcD+1fo56kf78w=
+			</data>
+			<key>hash2</key>
+			<data>
+			aNt0nY/D74C3xdmLaODwb1x7OT8KPQ5FDSUtBF1srX0=
+			</data>
+		</dict>
 		<key>Headers/ADAuthenticationContext.h</key>
-		<data>
-		mvNsVQP3ogiIDamNJXwzRAQY2u4=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			mvNsVQP3ogiIDamNJXwzRAQY2u4=
+			</data>
+			<key>hash2</key>
+			<data>
+			6sfgEpqMnvw98h20DV3Z+HM7hLxIY7zMBGOOXJvufCU=
+			</data>
+		</dict>
 		<key>Headers/ADAuthenticationError.h</key>
-		<data>
-		KNxmZjYFd5Gl5/08PvDqHrwD51g=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			KNxmZjYFd5Gl5/08PvDqHrwD51g=
+			</data>
+			<key>hash2</key>
+			<data>
+			+d8x6HRbwdZsOE3lwPgrnq/bZONmi9gMQCW3oDSwK4U=
+			</data>
+		</dict>
 		<key>Headers/ADAuthenticationParameters.h</key>
-		<data>
-		fBRmEsoiZJu8F475cZIfv2ZnkcU=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			fBRmEsoiZJu8F475cZIfv2ZnkcU=
+			</data>
+			<key>hash2</key>
+			<data>
+			M72qkpUk2PpXcmgMrC4j62iXfBO1bn3MTYNCHJSKKfM=
+			</data>
+		</dict>
 		<key>Headers/ADAuthenticationResult.h</key>
-		<data>
-		9NjFrTKmAR4bKu/fzyt33tL7FS8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			9NjFrTKmAR4bKu/fzyt33tL7FS8=
+			</data>
+			<key>hash2</key>
+			<data>
+			GVwT2AZddm22LNnttp22JCnc5CtMsPVJrtsr3Z2n9k4=
+			</data>
+		</dict>
 		<key>Headers/ADAuthenticationSettings.h</key>
-		<data>
-		LYw7jOjTW5Vg58u4jAcOp8ul0s8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			LYw7jOjTW5Vg58u4jAcOp8ul0s8=
+			</data>
+			<key>hash2</key>
+			<data>
+			lZw7FYE+lzv+ceulV6VpcB9fVt8gHqGd4myWhmheT4k=
+			</data>
+		</dict>
 		<key>Headers/ADErrorCodes.h</key>
-		<data>
-		w44PSeqWOcAkCX5n62xA2Jjo1/w=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			w44PSeqWOcAkCX5n62xA2Jjo1/w=
+			</data>
+			<key>hash2</key>
+			<data>
+			OEiOumIqXQ04EPI62fkaSK6Cu5GaJ+NXsiAXyJlrBHA=
+			</data>
+		</dict>
 		<key>Headers/ADInstanceDiscovery.h</key>
-		<data>
-		Uo2/PXvKyEdbX2+ZWoiok2ba894=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			Uo2/PXvKyEdbX2+ZWoiok2ba894=
+			</data>
+			<key>hash2</key>
+			<data>
+			gkJfOQd+VXWcRjc2HwCN9A4iXZZKiL23b+JgpEyNhL4=
+			</data>
+		</dict>
 		<key>Headers/ADLogger.h</key>
-		<data>
-		kvDD08DSU0sC21rE7CHKxovtKdY=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			kvDD08DSU0sC21rE7CHKxovtKdY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Y9hOsD71u2hyd2rjRMJo5qyniFHepPgwH3+BNxCElU0=
+			</data>
+		</dict>
 		<key>Headers/ADTokenCacheStoreItem.h</key>
-		<data>
-		6VdibMUy8nh5Yapi7/CXp4H5jP4=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			6VdibMUy8nh5Yapi7/CXp4H5jP4=
+			</data>
+			<key>hash2</key>
+			<data>
+			tJ6/+ZzI2Tapuq5k5ufGIhn020InO4SeLAnx0cof8ns=
+			</data>
+		</dict>
 		<key>Headers/ADTokenCacheStoreKey.h</key>
-		<data>
-		uWohdlpKwEmYy/jt7vCywKC0MY8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			uWohdlpKwEmYy/jt7vCywKC0MY8=
+			</data>
+			<key>hash2</key>
+			<data>
+			PyB/upOFjtITvOjzVIEY9idoWGYdWnicSPPpxSCb9Rc=
+			</data>
+		</dict>
 		<key>Headers/ADTokenCacheStoring.h</key>
-		<data>
-		NyyZQsY6G/w5IAO37XKeYdmlFIU=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			NyyZQsY6G/w5IAO37XKeYdmlFIU=
+			</data>
+			<key>hash2</key>
+			<data>
+			u01VcQ7rhjOrEdfY4BUahLR0uWqs4EveV0Tq46j922o=
+			</data>
+		</dict>
 		<key>Headers/ADUserInformation.h</key>
-		<data>
-		hivgbRSHATxdpQF4dnj2o88MDrA=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			hivgbRSHATxdpQF4dnj2o88MDrA=
+			</data>
+			<key>hash2</key>
+			<data>
+			rneqVUZ6nDwzUHMovu24f9kM/uRjUotradk9DZSNDLk=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>

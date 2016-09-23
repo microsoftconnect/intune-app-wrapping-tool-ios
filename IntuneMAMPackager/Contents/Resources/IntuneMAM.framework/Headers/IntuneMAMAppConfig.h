@@ -2,6 +2,8 @@
 //  Copyright (c) Microsoft Corporation. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
+
 typedef NS_ENUM(NSUInteger, IntuneMAMBoolQueryType)
 {
     IntuneMAMBoolAny,

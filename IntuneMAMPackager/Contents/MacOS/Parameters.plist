@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Input Application Package Path</key>
+	<string></string>
+	<key>Output Application Package Path</key>
+	<string></string>
+	<key>Provisioning Profile Path</key>
+	<string></string>
+	<key>SHA-1 Certificate Hash</key>
+	<string></string>
+	<key>Verbose Enabled</key>
+	<false/>
+	<key>Remove Missing Entitlements</key>
+	<false/>
+	<key>Prevent Default Build Update</key>
+	<false/>
+	<key>Build String Override</key>
+	<string></string>
+	<key>Extension Provisioning Profile Paths</key>
+	<array/>
+</dict>
+</plist>
