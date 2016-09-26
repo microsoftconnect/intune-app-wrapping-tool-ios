@@ -1,0 +1,37 @@
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u. Lees deze bepalingen aandachtig door. Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing). De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+•	updates,
+•	supplementen,
+•	op internet gebaseerde services en
+•	productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd. In dat geval gelden de meegeleverde bepalingen.
+Door de software te gebruiken, gaat u akkoord met deze bepalingen. Als u niet akkoord gaat met de bepalingen, mag u de software niet gebruiken.
+Als u de bepalingen en voorwaarden van deze overeenkomst naleeft, geniet u onderstaande eeuwigdurende rechten.
+1.	INSTALLATIE- EN GEBRUIKSRECHTEN. U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2.	Opgenomen Microsoft-programma’s. De toepassing bevat mogelijk andere Microsoft-programma's. Deze licentiebepalingen gelden voor uw gebruik van deze programma's.
+3.	Programma's van andere fabrikanten. In de toepassing kunnen programma’s van een derde zijn opgenomen die door Microsoft, niet door de derde, aan u in licentie worden gegeven op grond van deze overeenkomst. Eventuele kennisgevingen voor het programma van derden zijn slechts ter referentie voor u bijgevoegd.
+4.	BEREIK VAN LICENTIE. De software wordt niet verkocht, maar in licentie gegeven. Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken. Microsoft behoudt zich alle andere rechten voor. U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking. U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken. Het is niet toegestaan
+•	de technische beperkingen in de software te omzeilen;
+•	de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+•	meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+•	de software te publiceren zodat anderen deze kunnen kopiëren;
+•	de software te verhuren, in lease te geven of uit te lenen;
+•	de software of deze overeenkomst over te dragen aan enige derde partij; of
+•	de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+5.	RESERVEKOPIE. U mag één reservekopie maken van de software. U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+6.	DOCUMENTATIE. Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+7.	EXPORTBEPERKINGEN. Op de software is de Amerikaanse exportwetgeving van toepassing. U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software. Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik. Zie www.microsoft.com/exporting/ voor meer informatie.
+8.	ONDERSTEUNINGSSERVICES. De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+9.	VOLLEDIGE OVEREENKOMST. Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+10.	TOEPASSELIJK RECHT.
+a.	Verenigde Staten. Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst. Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b.	Buiten de Verenigde Staten. Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+11.	JURIDISCH EFFECT. In deze overeenkomst worden bepaalde rechten beschreven. Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land. Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen. Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+12.	AFWIJZING GARANTIE. De software wordt in de huidige staat in licentie gegeven. U gebruikt deze op eigen risico. Microsoft wijst alle garanties of voorwaarden van de hand. Het is mogelijk dat u over aanvullende consumentenrechten of wettelijke garanties beschikt in het kader van uw lokale recht, waarin deze overeenkomst geen wijzigingen kan aanbrengen. Voor zover is toegestaan op grond van het recht van uw land, wijst Microsoft de impliciete garanties van verkoopbaarheid, geschiktheid voor een bepaald doel en het niet-inbreukmakend karakter van de software af.
+VOOR AUSTRALIË: U beschikt over wettelijke garanties in het kader van het Australische consumentenrecht en niets in deze voorwaarden is bedoeld om afbreuk te doen aan deze rechten.
+13.	BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING. U kunt bij Microsoft en haar leveranciers alleen directe schade verhalen tot een bedrag van US $ 5,00. U kunt geen andere schade verhalen, met inbegrip van gevolgschade, schade door winstderving, speciale, indirecte of incidentele schade.
+Deze beperking geldt voor
+•	alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+•	claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade. Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.

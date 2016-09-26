@@ -1,0 +1,37 @@
+POSTANOWIENIA LICENCYJNE DOTYCZĄCE OPROGRAMOWANIA MICROSOFT 
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Niniejsze postanowienia licencyjne stanowią umowę między Microsoft Corporation (albo z jednym z podmiotów stowarzyszonych Microsoft właściwym ze względu na Państwa miejsce zamieszkania lub siedzibę) a Państwem. Prosimy przeczytać poniższe postanowienia. Odnoszą się one do określonego powyżej oprogramowania, jak również nośników, na których zostało ono Państwu dostarczone, jeśli takie nośniki istnieją. Niniejsze postanowienia licencyjne dotyczą także dostarczanych przez Microsoft:
+•	aktualizacji,
+•	uzupełnień,
+•	usług internetowych oraz
+•	pomocy technicznej
+dla niniejszego oprogramowania, o ile tym elementom nie towarzyszą inne postanowienia. W takim przypadku obowiązują te inne postanowienia.
+Przez użycie oprogramowania akceptują Państwo niniejsze postanowienia. Jeśli nie akceptują Państwo niniejszych postanowień, nie mogą Państwo używać oprogramowania.
+Jeśli przestrzegają Państwo niniejszych postanowień licencyjnych, przysługują Państwu bezterminowe prawa opisane poniżej.
+1.	PRAWA DO INSTALACJI I UŻYWANIA. Mogą Państwo zainstalować i używać dowolnej liczby kopii oprogramowania na swoich urządzeniach na swoich urządzeniach.
+2.	Dołączone programy Microsoft. Aplikacja obejmuje inne programy Microsoft. W przypadku korzystania z tych programów mają zastosowanie niniejsze postanowienia licencyjne.
+3.	Programy osób trzecich. Aplikacja może zawierać programy osób trzecich, na które Licencjobiorca otrzymuje licencję w ramach niniejszej umowy od Microsoft, a nie od danej osoby trzeciej. Ewentualne uwagi dotyczące programów osób trzecich są podawane Licencjobiorcy wyłącznie w celach informacyjnych.
+4.	ZAKRES LICENCJI. Oprogramowanie jest licencjonowane, a nie sprzedawane. Niniejsza umowa daje Państwu tylko niektóre prawa do używania oprogramowania. Microsoft zastrzega sobie wszystkie inne prawa. Poza sytuacją, w której pomimo niniejszego ograniczenia prawo właściwe daje Państwu więcej praw, mogą Państwo używać oprogramowania tylko w sposób wyraźnie dozwolony w niniejszej umowie. W takiej sytuacji muszą Państwo wtedy przestrzegać wszystkich ograniczeń technicznych w oprogramowaniu, które zezwalają Państwu na używanie go tylko pewnymi sposobami. Nie mogą Państwo:
+•	obchodzić ograniczeń technicznych w oprogramowaniu;
+•	odtwarzać, dekompilować ani dezasemblować oprogramowania, z wyjątkiem sytuacji, gdy niezależnie od niniejszego ograniczenia działania takie są wyraźnie dozwolone przez prawo właściwe i tylko w zakresie takiego zezwolenia;
+•	sporządzać więcej kopii oprogramowania niż jest to określone w niniejszej umowie lub dozwolone przez prawo właściwe, pomimo niniejszego ograniczenia;
+•	udostępniać oprogramowania innym osobom do kopiowania;
+•	wynajmować, wydzierżawiać ani wypożyczać oprogramowania;
+•	przekazywać oprogramowania ani niniejszej umowy osobom trzecim albo
+•	używać oprogramowania do świadczenia usług hostingowych dla celów komercyjnych.
+5.	KOPIA ZAPASOWA. Mogą Państwo sporządzić jedną kopię zapasową oprogramowania. Mogą jej Państwo używać tylko do ponownego zainstalowania oprogramowania.
+6.	DOKUMENTACJA. Każda osoba, która jest upoważniona do uzyskiwania dostępu do Państwa komputera lub jego sieci wewnętrznej, może kopiować i korzystać z dokumentacji jako materiałów referencyjnych na Państwa wewnętrzny użytek.
+7.	OGRANICZENIA EKSPORTOWE. Oprogramowanie podlega amerykańskim przepisom eksportowym. Muszą Państwo przestrzegać wszystkich krajowych i międzynarodowych przepisów eksportowych mających zastosowanie do oprogramowania. Przepisy te zawierają ograniczenia dotyczące kraju przeznaczenia, użytkowników i używania oprogramowania. Więcej informacji można znaleźć pod adresem www.microsoft.com/exporting.
+8.	POMOC TECHNICZNA. Oprogramowanie jest dostarczane w stanie takim, w jakim się znajduje. W związku z tym nie oferujemy żadnych usług pomocy technicznej dotyczących tego oprogramowania.
+9.	JEDNA UMOWA. Niniejsza umowa (łącznie z zamieszczoną poniżej gwarancją) wraz ze wszystkimi postanowieniami dotyczącymi uzupełnień, aktualizacji, usług internetowych i usług pomocy technicznej stanowi całość umowy dotyczącej oprogramowania i pomocy technicznej.
+10.	PRAWO WŁAŚCIWE.
+a.	Stany Zjednoczone. Jeśli nabyli Państwo oprogramowanie w Stanach Zjednoczonych, interpretacja niniejszej umowy podlega prawu stanu Waszyngton, które to prawo ma zastosowanie do roszczeń z tytułu naruszenia umowy, bez względu na konflikty przepisów kolizyjnych. Wszystkie inne roszczenia, łącznie z roszczeniami wnoszonymi na podstawie właściwych dla Państwa ustaw z danego stanu o ochronie konsumenta, ustaw o zwalczaniu nieuczciwej konkurencji i czynach niedozwolonych, podlegają prawu miejscowemu, właściwemu ze względu na stan Państwa zamieszkania lub siedziby.
+b.	Poza Stanami Zjednoczonymi. Jeśli nabyli Państwo oprogramowanie w dowolnym innym kraju, prawem właściwym jest prawo miejscowe.
+11.	SKUTKI PRAWNE. W niniejszej umowie opisane są niektóre uprawnienia. Mogą Państwo mieć także inne prawa ustawowe z mocy prawa swojego kraju. Mogą Państwo mieć także prawa względem strony, od której nabyli Państwo oprogramowanie. Niniejsza umowa nie zmienia Państwa ustawowych praw obowiązujących z mocy prawa Państwa kraju, jeśli prawo to na takie zmiany nie zezwala.
+12.	WYŁĄCZENIE ODPOWIEDZIALNOŚCI Z TYTUŁU RĘKOJMI. Oprogramowanie jest licencjonowane „jak jest”. Ponoszą Państwo ryzyko związane z jego używaniem. Nie udzielamy żadnej wyraźnej rękojmi, gwarancji ani nie podajemy warunków. Niniejsza umowa nie wpływa na dodatkowe prawa konsumenta i ustawowe gwarancje, jakie mogą przysługiwać Licencjobiorcy na mocy prawa krajowego. W zakresie dozwolonym przez państwa prawo miejscowe, Microsoft wyłącza domyślną gwarancję z tytułu wartości handlowej, przydatności do określonego celu i nienaruszalności praw osób trzecich.
+POSTANOWIENIE DOTYCZĄCE LICENCJOBIORCÓW W AUSTRALII — Obowiązująca w Australii ustawa o ochronie konsumentów (ang. Australian Consumer Law) przyznaje Licencjobiorcy określone prawa i żadne z zawartych w tym dokumencie postanowień nie ma na celu wpływania na te prawa.
+13.	BRAK ODPOWIEDZIALNOŚCI ZA SZKODY. W najszerszym zakresie dozwolonym przez prawo właściwe odpowiedzialność Microsoft i podmiotów stowarzyszonych Microsoft lub ich dostawców za jakiekolwiek szkody będzie ograniczona do wysokości 5,00 USD. W najszerszym zakresie dozwolonym przez prawo właściwe, Microsoft, żaden z podmiotów stowarzyszonych Microsoft lub ich dostawcy nie będą ponosili względem państwa odpowiedzialności za jakiekolwiek inne szkody w tym w szczególności za utracone korzyści, szkody specjalne, pośrednie i przypadkowe.
+W szczególności ograniczenie to ma zastosowanie do
+•	każdej sprawy związanej z oprogramowaniem, usługami, zawartością (łącznie z kodem) witryn internetowych osób trzecich lub programami osób trzecich oraz
+•	roszczeń wnoszonych w oparciu o naruszenie umowy, niedotrzymanie rękojmi, gwarancji lub oświadczeń i zapewnień, odpowiedzialność na zasadzie ryzyka, niedbalstwo lub popełnienie innego czynu niedozwolonego, w zakresie dozwolonym przez prawo właściwe. 
+Stosuje się nawet wtedy, gdy Microsoft wiedziała lub powinna wiedzieć o możliwości powstania takich szkód. Powyższe ograniczenia i wyłączenia mogą nie dotyczyć Państwa, ponieważ jego kraj może nie zezwalać na wyłączenie lub ograniczenie odpowiedzialności za szkody przypadkowe, wtórne i inne.

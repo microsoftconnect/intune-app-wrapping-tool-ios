@@ -1,0 +1,37 @@
+LISENSVILKÅR FOR MICROSOFT PROGRAMVARE
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Disse lisensvilkårene utgjør en rettslig bindende avtale mellom deg og Microsoft Corporation (eller et av dets tilknyttede selskaper, avhengig av hvor du bor). Les vilkårene nøye. De gjelder ovennevnte programvare, som også omfatter mediet den eventuelt ble levert på. Vilkårene gjelder også for Microsofts
+•	Oppdateringer
+•	Tillegg
+•	Internett-baserte tjenester
+•	Brukerstøtte
+for ovennevnte programvare, med mindre andre vilkår følger med programvaren. I så fall gjelder de vilkårene som følger med programvaren.
+Ved å ta i bruk programvaren anses du for å ha akseptert disse vilkårene. Hvis du ikke aksepterer vilkårene, har du ikke rett til å ta i bruk programvaren.
+Forutsatt at du overholder disse lisensvilkårene, har du de permanente rettighetene nedenfor.
+1.	INSTALLASJON OG BRUKERRETTIGHETER. Du har rett til å installere og bruke et hvilket som helst antall eksemplarer av programvaren på dine enheter.
+2.	Inkluderte Microsoft-Programmer. Programmet inneholder andre Microsoft-programmer. Disse lisensvilkårene gjelder for din bruk av de programmene.
+3.	Tredjepartsprogrammer. Programmet kan omfatte tredjepartsprogrammer som Microsoft, ikke tredjeparten, lisensierer til deg under denne avtalen. Eventuelle merknader til tredjepartsprogrammer er inkludert bare til informasjonsformål.
+4.	LISENSENS OMFANG. Det gis lisens på programvaren. Den selges ikke. Denne avtalen gir deg begrensede rettigheter til å bruke programvaren. Microsoft forbeholder seg alle øvrige rettigheter. Med mindre ufravikelig lov gir deg flere rettigheter til tross for denne restriksjonen, har du bare rett til å bruke programvaren slik det uttrykkelig er tillatt i henhold til denne avtalen. Du må overholde eventuelle tekniske begrensninger i programvaren som bare tillater at du bruker den på bestemte måter. Du har ikke rett til å gjøre følgende:
+•	Omgå de tekniske begrensningene i programvaren,
+•	Foreta omvendt utvikling ("reverse engineering"), dekompilere eller demontere programvaren, med mindre og bare i den grad dette er tillatt i henhold til gjeldende lov, til tross for denne begrensningen,
+•	Lage flere eksemplarer av programvaren enn det som er spesifisert i denne avtalen eller tillatt i henhold til ufravikelig lov, til tross for denne begrensningen,
+•	Publisere programvaren slik at andre kan fremstille eksemplarer av den,
+•	Leie ut, lease eller låne bort programvaren,
+•	Overføre programvaren eller denne avtalen til en tredjepart, eller
+•	Bruke programvaren til kommersielle vertstjenester.
+5.	SIKKERHETSKOPI. Du har rett til å lage én sikkerhetskopi av programvaren. Sikkerhetskopien kan bare brukes til å installere programvaren på nytt.
+6.	DOKUMENTASJON. Enhver person som har gyldig tilgang til din datamaskinen eller ditt interne nettverk, har rett til å fremstille eksemplarer av og bruke dokumentasjonen for dine interne referanseformål.
+7.	EKSPORTRESTRIKSJONER. Programvaren er underlagt amerikanske eksportlover og -regler. Du må overholde alle nasjonale og internasjonale eksportlover og -regler som gjelder for programvaren. Disse lovene omfatter restriksjoner på bestemmelsessteder, sluttbrukere og sluttbruk. Hvis du vil ha mer informasjon, se www.microsoft.com/exporting.
+8.	BRUKERSTØTTE. Fordi programvaren leveres "som den er" ("as is"), er det ikke sikkert at vi vil tilby brukerstøtte for den.
+9.	FULLSTENDIG AVTALE. Denne avtalen og vilkårene for tillegg, oppgraderinger, Internett-baserte tjenester og brukerstøtte du benytter deg av, utgjør den fullstendige avtalen for programvaren og brukerstøtten.
+10.	GJELDENDE LOV.
+a.	USA. Hvis du ervervet programvaren i USA, er denne avtalen underlagt lovene i delstaten Washington, og gjelder krav knyttet til avtalebrudd, uten hensyn til prinsipper om lovkonflikt. Alle andre krav, herunder krav knyttet til delstatlige forbrukervernlover, urettferdige konkurranseregler og forvoldt skade, er underlagt lovene i den aktuelle delstaten.
+b.	Utenfor USA. Hvis du ervervet programvaren i et annet land enn USA, gjelder nasjonal lov.
+11.	RETTSVIRKNING. Denne avtalen beskriver bestemte rettigheter. Du kan ha andre rettigheter i henhold til gjeldende lov avhengig av jurisdiksjon. Du kan også ha rettigheter med hensyn til den parten du ervervet programvaren fra. Denne avtalen endrer ikke dine rettigheter i henhold til gjeldende ufravikelig lov som måtte få anvendelse for deg.
+12.	BEGRENSEDE RETTIGHETER. Programvaren er lisensiert "som den er" ("as is"). Du bruker den på egen risiko. Microsoft innvilger deg ingen garantier eller andre rettigheter. Du kan ha ytterligere forbrukerrettigheter eller lovfestede rettigheter i henhold til lokale lover, som denne avtalen ikke kan endre. I den grad ikke annet følger av ufravikelig lov, fraskriver Microsoft seg ethvert ansvar og forpliktelser, herunder men ikke begrenset til underforståtte garantier om salgbarhet, anvendelighet for særskilte formål eller at programvaren ikke krenker tredjeparts rettigheter.
+FOR AUSTRALIA – Du har lovfestede rettigheter under den Australske forbrukerloven, og ingenting i disse vilkårene skal påvirke disse rettighetene.
+13.	ANVARSFRASKRIVELSE OG ANSVARSBEGRENSNING FOR TAP ELLER SKADER. Microsoft eller dets leverandører vil bare erstatte direkte tap eller skader begrenset opp til 5,00 USD. Du har ikke rett til dekning for andre tap eller skader av økonomisk eller ikke-økonomisk art, herunder følgeskader, tap av fortjeneste eller spesielle, indirekte eller tilfeldige tap eller skader.
+Denne begrensningen gjelder følgende:
+•	Alle forhold relatert til programvaren, tjenester, innhold (inkludert kode) på tredjeparts webområder eller tredjeparts programmer
+•	Krav knyttet til kontraktsbrudd, brudd på rettigheter og eventuelle påståtte garantier eller øvrige forpliktelser, objektivt ansvar, uaktsomhet eller annet subjektivt ansvar så langt dette er tillatt i henhold til gjeldende ufravikelig lov
+Begrensningen gjelder også hvis Microsoft visste, eller burde ha visst, om risikoen for tap eller skader. Ettersom det kan være at ditt land ikke tillater ansvarsfraskrivelse eller ansvarsbegrensning for tilfeldige skader, følgeskader eller andre skader, kan det hende at ovennevnte ansvarsfraskrivelse eller ansvarsbegrensning ikke gjelder for deg.

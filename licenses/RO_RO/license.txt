@@ -1,0 +1,37 @@
+TERMENII LICENŢEI PENTRU PRODUS SOFTWARE MICROSOFT
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Aceşti termeni ai licenţei reprezintă un contract între Microsoft Corporation (sau unul dintre afiliaţii săi, în funcţie de regiunea în care trăiţi) şi dumneavoastră. Vă rugăm să îi citiţi. Aceşti termeni sunt aplicabili produsului software indicat mai sus, care include şi suportul fizic pe care aţi primit produsul, dacă este cazul. De asemenea, termenii se aplică şi
+•	actualizărilor Microsoft,
+•	suplimentelor Microsoft,
+•	serviciilor prin Internet Microsoft şi
+•	serviciilor de asistenţă Microsoft
+pentru acest produs software, cu excepţia cazului în care alţi termeni însoţesc acele elemente. Într-un asemenea caz, se aplică termenii respectivi.
+Utilizând produsul software acceptaţi aceşti termeni. Dacă nu acceptaţi aceşti termeni, nu utilizaţi produsul software.
+Dacă respectaţi aceşti termeni ai licenţei, beneficiaţi de drepturile perpetue de mai jos.
+1.	DREPTURI DE INSTALARE ŞI UTILIZARE. Aveţi dreptul să instaleze şi să utilizeze un număr nelimitat de copii ale produsului software pe dispozitivele dumneavoastră.
+2.	Programele Microsoft incluse. Aplicaţia conţine alte programe Microsoft. Aceşti termeni ai licenţei reglementează utilizarea de către dvs. a acestor programe.
+3.	Programele de la terţe părţi. Aplicaţia poate să includă programe de la terţe părţi pe care Microsoft, şi nu terţa parte, vi le acordă sub licenţă în baza acestui contract. Notificările, dacă există, referitoare la programele de la terţe părţi sunt incluse numai în scop de informare.
+4.	SFERA DE ACŢIUNE A LICENŢEI. Produsul software nu este vândut, ci se află sub licenţă de utilizare. Acest contract vă acordă câteva drepturi pentru utilizarea produsului software. Microsoft îşi rezervă toate celelalte drepturi. Cu excepţia situaţiei în care legea aplicabilă vă acordă mai multe drepturi în ciuda acestei limitări, puteţi utiliza acest produs software numai conform prevederilor acestui contract. Trebuie să respectaţi limitările de natură tehnică ale produsului software care vă permit să-l utilizaţi numai în anumite modalităţi. Nu aveţi dreptul să
+•	încălcaţi orice limitări de natură tehnică ale produsului software;
+•	refaceţi programul sursă, decompilaţi sau dezasamblaţi produsul software, cu excepţia cazurilor şi doar în măsura în care legea aplicabilă permite acest lucru în mod expres şi în limitele prevederilor legale, în ciuda acestei limitări;
+•	să faceţi mai multe copii ale produsului software decât numărul specificat în acest contract sau permis de legea aplicabilă, în ciuda acestei limitări;
+•	să publicaţi produsul software pentru ca alţii să îl poată copia;
+•	să închiriaţi, să daţi în leasing sau să împrumutaţi produsul software;
+•	să transferaţi produsul software sau acest contract unei terţe părţi; sau
+•	să îl utilizaţi produsul software pentru servicii de găzduire în scop comercial.
+5.	COPIE DE SIGURANŢĂ. Puteţi face o copie de siguranţă a produsului software. O puteţi utiliza numai pentru reinstalarea produsului software.
+6.	DOCUMENTAŢIE. Orice persoană care are acces legal la computerul sau la reţeaua dumneavoastră internă are dreptul să copieze şi să utilizeze documentaţia în scopuri interne, de referinţă.
+7.	RESTRICŢII LA EXPORT. Produsul software se supune legilor şi reglementărilor în materie de export ale SUA. Trebuie să respectaţi toate legile şi reglementările de export interne şi internaţionale, aplicabile pentru produsul software. Aceste legi se referă la restricţii privind destinaţii, utilizatori finali şi utilizare finală. Pentru informaţii suplimentare, accesaţi www.microsoft.com/exporting.
+8.	SERVICII DE ASISTENŢĂ. Deoarece produsul software este furnizat „ca atare”, este posibil să nu oferim servicii de asistenţă.
+9.	ÎNTREGUL CONTRACT. Acest contract şi termenii referitori la componente suplimentare, actualizări, servicii prin Internet şi de asistenţă pe care dumneavoastră le utilizaţi constituie întregul contract pentru produsul software şi pentru serviciile de asistenţă.
+10.	LEGISLAŢIA APLICABILĂ.
+a.	Statele Unite ale Americii. Dacă aţi achiziţionat produsul software în Statele Unite ale Americii, interpretarea acestui contract este guvernată de legile statului Washington şi acestea se aplică şi reclamaţiilor privind încălcări ale acestuia, indiferent de existenţa unui conflict de principii juridice. Legile statului în care locuiţi guvernează restul reclamaţiilor, inclusiv cele referitoare la legile privind protecţia consumatorului, concurenţa neloială şi răspundere delictuală.
+b.	În afara Statelor Unite ale Americii. Dacă aţi achiziţionat produsul software în orice altă ţară, se aplică legile ţării în care locuiţi.
+11.	EFECT LEGAL. Acest contract descrie anumite drepturi legale. Este posibil ca legile ţării dumneavoastră să vă garanteze alte drepturi. De asemenea, puteţi avea drepturi faţă de persoana de la care aţi achiziţionat produsul software. Acest contract nu modifică drepturile dumneavoastre acordate de legile ţării dumneavoastră dacă acestea nu permit acest lucru.
+12.	NEACORDAREA GARANŢIEI. Produsul software este licenţiat „ca atare”. Vă asumaţi riscul utilizării lui. Microsoft nu acordă garanţii exprese sau condiţii. Este posibil ca legile locale să vă acorde drepturi ale consumatorului suplimentare sau garanţii statutare, pe care prezentul contract nu le poate modifica. În limitele permise de legislaţia locală, Microsoft exclude garanţiile implicite de vandabilitate, adecvare la un scop şi de neîncălcare a legilor.
+PENTRU AUSTRALIA - Beneficiaţi de garanţii statutare în baza Legii consumatorului din Australia şi nicio prevedere din aceşti termeni nu are scopul de a afecta respectivele drepturi.
+13.	LIMITAREA ŞI EXCLUDEREA COMPENSAŢIILOR ŞI DESPĂGUBIRILOR. Puteţi obţine de la Microsoft şi de la furnizorii săi despăgubiri numai pentru prejudicii directe, până la valoarea maximă de 5,00 $. Nu puteţi obţine despăgubiri pentru alte prejudicii, inclusiv prejudicii succesive, pierderi de profit, speciale, indirecte sau subsecvente.
+Această limitare este valabilă pentru
+•	orice problemă asociată cu produsul software, servicii, conţinut (inclusiv cod) pe website-urile terţilor sau programe ale terţilor şi 
+•	despăgubiri pentru încălcarea contractului, a garanţiei sau condiţiei, răspundere strictă, neglijenţă sau alte delicte în limitele permise de legea aplicabilă.
+Aceasta este valabilă, de asemenea, chiar dacă Microsoft a ştiut sau ar fi trebuit să ştie despre posibilitatea acestor prejudicii. Este posibil ca limitarea sau excluderea de mai sus să nu fie valabilă deoarece ţara dumneavoastră nu permite excluderea sau limitarea prejudiciilor subsecvente, succesive sau de altă natură.

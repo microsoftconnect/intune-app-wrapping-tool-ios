@@ -1,0 +1,37 @@
+MICROSOFT-OHJELMISTON KÄYTTÖOIKEUSSOPIMUKSEN EHDOT
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Nämä käyttöoikeussopimuksen ehdot ovat sopimus asiakkaan ja Microsoft Corporationin (tai asiakkaan asuinpaikan mukaan määräytyvän Microsoft Corporationin konserniyhtiön) välillä. Lue ehdot huolellisesti. Ehdot koskevat yllä nimettyä ohjelmistoa sekä asennusmedioita, joilla ohjelmisto on mahdollisesti toimitettu. Ehdot koskevat myös Microsoftin ohjelmistoon liittyviä:
+•	päivityksiä,
+•	täydennyksiä,
+•	Internet-pohjaisia palveluja, ja
+•	tukipalveluja,
+jos niillä ei ole erillisiä omia käyttöoikeussopimuksiaan. Mikäli niillä on erilliset käyttöoikeussopimukset, noudatetaan niiden osalta tällaisten käyttöoikeussopimusten ehtoja tämän sopimuksen sijasta.
+Käyttämällä ohjelmistoa asiakas hyväksyy tämän käyttöoikeussopimuksen ehdot. Mikäli asiakas ei hyväksy tämän sopimuksen ehtoja, ei ohjelmistoa saa käyttää.
+Jos asiakas noudattaa näitä käyttöoikeusehtoja, asiakkaalla on alla luetellut pysyvät oikeudet.
+1.	ASENNUS- JA KÄYTTÖOIKEUDET. Asiakas saa asentaa haluamansa määrän ohjelmiston kopioita ja käyttää niitä asiakkaan laitteilla.
+2.	Mukana toimitettavat Microsoft-ohjelmat. Sovellus sisältää muita Microsoft-ohjelmia. Ohjelmien käyttöön sovelletaan näitä käyttöoikeusehtoja.
+3.	Kolmansien osapuolten ohjelmat. Sovellus voi sisältää kolmannen osapuolen ohjelmia, joiden käyttöoikeuden myöntää Microsoft, ei kyseinen kolmas osapuoli. Jos kolmansien osapuolten ohjelmista annetaan ilmoitus, se on tarkoitettu asiakkaalle ainoastaan tiedoksi.
+4.	KÄYTTÖOIKEUSSOPIMUKSEN LAAJUUS. Ohjelmistoa ei myydä, vaan siihen myönnetään käyttöoikeus. Tämä käyttöoikeussopimus antaa asiakkaalle vain tietyt oikeudet käyttää ohjelmistoa. Microsoft pidättää itsellään kaikki muut oikeudet. Ohjelmistoa saa käyttää vain tässä sopimuksessa nimenomaisesti mainituin tavoin, mikäli paikallinen lainsäädäntö ei myönnä käyttäjälle muita oikeuksia. Käyttäjän on noudatettava ohjelmistoon kuuluvia mahdollisia teknisiä rajoituksia, joiden vuoksi ohjelmistoa voi käyttää vain tietyllä tavalla. Asiakas ei saa
+•	kiertää ohjelmiston teknisiä rajoituksia;
+•	perusteellisesti tutkia ohjelmiston valmistustapaa tai purkaa tai hajottaa ohjelmistoa, paitsi tästä rajoituksesta huolimatta sovellettavan lain nimenomaisesti sallimassa määrin;
+•	tehdä ohjelmistosta enempiä kopioita kuin mitä tässä sopimuksessa määritetään tai kuin tästä rajoituksesta huolimatta sovellettava laki määrittää;
+•	julkaista ohjelmistoa muiden kopioitavaksi;
+•	vuokrata tai lainata ohjelmistoa;
+•	siirtää ohjelmistoa tai tätä sopimusta kolmannelle osapuolelle tai
+•	käyttää ohjelmistoa kaupallisten käyttöpalveluiden tuottamiseen kolmansille osapuolille.
+5.	VARMUUSKOPIO. Sovelluksesta saa tehdä yhden varmuuskopion, jota saa käyttää ainoastaan ohjelmiston uudelleenasentamiseksi.
+6.	DOKUMENTAATIO. Jokainen henkilö, jolla on voimassaoleva oikeus käyttää asiakkaan tietokonetta tai sisäistä verkkoa, saa kopioida dokumentaation ja hyödyntää sitä asiakkaan sisäisessä käytössä, konsultointitarkoituksessa.
+7.	VIENTIRAJOITUKSET. Tämä ohjelmisto kuuluu Yhdysvaltain vientiä koskevien lakien ja säännösten piiriin. Asiakkaan on noudatettava kaikkia ohjelmistoa koskevia paikallisia ja kansainvälisiä vientilakeja ja -säännöksiä. Nämä lait sisältävät kohdemaita, loppukäyttäjiä ja loppukäyttöä koskevia rajoituksia. Lisätietoja löytyy osoitteesta www.microsoft.com/exporting.
+8.	TUKIPALVELUT. Tämä ohjelmisto toimitetaan sellaisenaan, eikä sille välttämättä tarjota tukipalveluja.
+9.	KOKO SOPIMUS. Tämä sopimus sekä ehdot täydennysten, päivitysten, Internetin-pohjaisten palveluiden ja asiakkaan käyttämien tukipalveluiden toimittamiseen muodostavat ohjelmiston käyttöoikeus- sekä tukipalvelusopimuksen kokonaisuudessaan.
+10.	SOVELLETTAVA LAKI.
+a.	Yhdysvallat. Jos asiakas hankkii ohjelmiston Yhdysvalloissa, tätä sopimusta ja väitteitä siihen liittyvistä rikkomuksista tulkitaan Washingtonin osavaltion lakien mukaan huolimatta sen lainvalintaa koskevista periaatteista. Asiakkaan kotiosavaltion lakeja sovelletaan kaikkiin muihin vaateisiin, mukaan lukien vaateisiin, jotka perustuvat osavaltion kuluttajansuojalakeihin, sopimatonta menettelyä elinkeinotoiminnassa koskeviin lakeihin tai oikeudenvastaiseen tekoon.
+b.	Yhdysvaltain ulkopuoliset maat. Jos asiakas hankkii ohjelmiston jossakin muussa maassa kuin Yhdysvalloissa, sovelletaan tämän maan lakeja.
+11.	OIKEUDELLINEN VAIKUTUS. Tässä sopimuksessa kuvataan tiettyjä laillisia oikeuksia. Asiakkaalla voi olla myös muita paikallisten lakien mukaisia oikeuksia. Asiakkaalla voi niinikään olla oikeuksia, jotka liittyvät ohjelmiston myyneeseen tahoon. Tämä sopimus ei muuta paikallisten lakien mukaisia asiakkaan oikeuksia, jos paikallinen laki ei tätä salli.
+12.	TAKUUN POISSULKEMINEN. Ohjelmisto toimitetaan sellaisenaan. Asiakas saa käyttää sitä omalla vastuullaan. Microsoft ei myönnä mitään nimenomaisesti ilmaistuja takuita, sitoumuksia tai ehtoja. Asiakkaalla voi olla paikallisen lain säädöksistä johtuen muita sellaisia kuluttajan oikeuksia tai lakisääteisiä takuita, joihin tämä sopimus ei voi vaikuttaa. Ellei sovellettavan lain säädöksistä muutu johdu, Microsoft sulkee pois oletetut takuut tavaran soveltuvuudesta kaupankäynnin kohteeksi, sen sopivuudesta johonkin tiettyyn tarkoitukseen tai oikeuksien loukkaamattomuudesta.
+VAIN AUSTRALIASSA: Asiakkaalla on Australian kuluttajansuojalaista johtuvia takuita, ja näiden ehtojen tarkoituksena ei ole vaikuttaa kyseisiin oikeuksiin.
+13.	VAHINGONKORVAUSVASTUUN RAJOITUS JA POISSULKEMINEN. Asiakkaan Microsoftilta ja sen toimittajilta saaman vahingonkorvauksen määrä ei voi ylittää USD 5,00. Asiakkaalla ei ole oikeuksia muihin vahingonkorvauksiin huolimatta siitä, ovatko kyseessä välilliset, erityiset, epäsuorat tai satunnaiset vahingot tai liikevoiton menettäminen.
+Tämä rajoitus koskee
+•	kaikkia seikkoja, jotka liittyvät ohjelmistoon, palveluihin tai sisältöön (mukaan lukien koodiin) kolmansien osapuolten Internet-sivustoissa tai kolmansien osapuolten ohjelmissa sekä
+•	väitteitä sopimusrikkomuksesta, takuurikkomuksesta, sitoumuksesta tai ehdosta, laiminlyönnistä tai muusta oikeudenvastaisesta teosta sovellettavan lain nimenomaisesti sallimassa määrin.
+Se on voimassa myös tilanteissa, joissa Microsoft on tiennyt tai sen olisi pitänyt tietää vahinkojen mahdollisuudesta. Satunnaisten tai välillisten vahinkojen tai muiden vahinkojen aiheuttaman vahingonkorvausvastuun poissulkeminen ja rajoittaminen ei ole sallittua joissakin maissa, joten edellä mainittuja rajoituksia tai poissulkemisia ei ehkä voida soveltaa asiakkaaseen näissä maissa.

@@ -1,0 +1,37 @@
+MICROSOFT YAZILIMI LİSANS KOŞULLARI
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Bu lisans koşulları, Microsoft Corporation kuruluşu (veya yaşadığınız göre bir bağlı şirketi) ile sizin aranızda yapılan sözleşmeyi oluşturur. Lütfen bunları okuyunuz. Bu koşullar, hem yukarıda adı verilen yazılımı için hem de eğer yazılım bir ortam üzerinde alınmışsa söz konusu ortam için geçerlidir. Bu koşullar, yazılıma yönelik her türlü Microsoft
+•	güncelleştirmeleri,
+•	ekleri,
+•	Internet tabanlı hizmetleri ve
+•	destek hizmetleri
+için (bu öğelere başka koşullar eşlik etmediği sürece) geçerlidir. Başka koşulların eşlik etmesi halinde ilgili koşullar geçerli olacaktır.
+Yazılımı kullanmanız bu koşulları kabul ettiğiniz anlamına gelir. Bu koşulları kabul etmiyorsanız, yazılımı kullanmayın.
+Bu lisans koşullarına uyarsanız aşağıdaki kalıcı haklara sahip olursunuz.
+1.	YÜKLEME VE KULLANIM HAKLARI. Siz yazılımın herhangi bir sayıda kopyasını aygıtlarınızda yükleyip kullanabilirsiniz.
+2.	Dahil Olan Microsoft Programları. Uygulama başka Microsoft programlarını içerir. Bu lisans koşulları o programları kullanımınız için de geçerlidir.
+3.	Üçüncü Taraf Programları. Uygulama, üçüncü kişiler tarafından değil, Microsoft tarafından bu anlaşma kapsamında size lisanslanmış üçüncü taraf programları içerebilir. Üçüncü taraf programları için bildirim, varsa, sadece bilgilendirilmeniz için dahil edilmiştir.
+4.	LİSANS KAPSAMI. Yazılımın satışı yapılmamakta, lisansı verilmektedir. Bu sözleşme yalnızca yazılımı kullanımınızla ilgili bazı haklar vermektedir. Microsoft diğer hakların tümünü saklı tutar. Bu sınırlamalara rağmen ilgili yasalar ilave haklar sağlamıyorsa yazılımı yalnızca bu sözleşmede açıkça izin verildiği şekilde kullanabilirsiniz. Bunu yaparken, yazılımda size yazılımı yalnızca belirli şekillerde kullanma izni veren her türlü teknik sınırlamaya uymanız gerekir. Aşağıdakileri yapamazsınız:
+•	yazılımın teknik sınırlamalarını aşacak çözümler üretmek,
+•	bu sınırlamaya rağmen ilgili yasa hükümlerince açıkça izin verilen durumlar dışında, yazılım üzerinde ters mühendislik işlemi yapmak, yazılımı kaynak koda dönüştürmek ve derlemesini açmak,
+•	yazılımın bu sözleşmede belirtilenden veya ilgili yasaların bu sözleşmede öngörülenden fazla kopyaya emredici hükümle izin vermesi halinde yasalarla izin verilenden fazla kopyasını oluşturmak,
+•	yazılımı başkalarının kopyalaması için yayımlamak,
+•	yazılımı kiralamak, finansal kiralamayla satmak, ödünç vermek,
+•	yazılımı veya bu sözleşmeyi herhangi bir üçüncü tarafa devretmek, veya
+•	yazılımı ticari yazılım ana makine hizmetleri için kullanmak.
+5.	YEDEK KOPYA. Yazılımın tek bir yedek kopyasını oluşturabilirsiniz. Bunu yalnızca yazılımı yeniden yüklemek için kullanabilirsiniz.
+6.	BELGELER. Bilgisayarınıza veya iç ağınıza geçerli erişimi olan herhangi bir kişi, belgeleri kuruluşunuz içinde yararlanmak amacıyla kopyalayabilir ve kullanabilir.
+7.	İHRACAT SINIRLAMALARI. Yazılım, ABD ihracat yasalarına ve düzenlemelerine tabidir. Yazılım konusunda geçerli olan tüm yurtiçi ve uluslararası ihracat yasalarına ve düzenlemelerine uygun şekilde davranmanız gerekir. Bu yasalar, ürünün gönderileceği yeri, son kullanıcılar ve son kullanıma ilişkin sınırlamaları içerir. Daha fazla bilgi için bkz: www.microsoft.com/exporting.
+8.	DESTEK HİZMETLERİ. Bu yazılım “olduğu gibi” sağlandığından, yazılım için destek hizmeti veremeyebiliriz.
+9.	SÖZLEŞMENİN TAMAMI. Bu sözleşme eklerin, güncelleştirmelerin, Internet tabanlı hizmetlerin ve kullandığınız destek hizmetlerinin koşulları, yazılım ve destek hizmetlerine yönelik sözleşmenin tamamını oluşturur.
+10.	UYGULANACAK HUKUK.
+a.	ABD. Yazılımı ABD'de aldıysanız, bu sözleşmenin yorumlanması ve ihlali iddiaları, milletlerarası bağlama kuralları hesaba katılmadan, Washington eyaleti kanunlarına tabi olacaktır. Tüketici koruma kanunları, haksız rekabet ve haksız fiil kapsamındakiler de dahil diğer tüm talepler bakımından yaşadığınız eyaletin kanunları geçerli olacaktır.
+b.	ABD dışında. Bu yazılımı başka bir ülkede satın aldıysanız, o ülkenin yasaları geçerli olacaktır.
+11.	YASAL ETKİSİ. Bu sözleşmede belirli yasal haklar tanımlanmıştır. Yaşadığınız ülkenin kanunlarına göre başka haklara sahip olabilirsiniz. Ayrıca, yazılımı aldığınız tarafla ilgili başka haklara da sahip olabilirsiniz. Bu sözleşme, ülkenizin yasalarının izin vermediği durumlarda, ülkenizin yasaları uyarınca sahip olduğunuz hakları değiştirmez.
+12.	GARANTİ REDDİ BEYANI. Yazılımın lisansı “olduğu gibi” verilmektedir. Yazılımın kullanımına ilişkin riskler tarafınızdan üstlenilir. Microsoft tarafından hiçbir açık garanti verilmemekte veya koşul sunulmamaktadır. Yerel yasalara göre bu anlaşmanın değiştiremeyeceği ek tüketici haklarına veya kanuni garantilere sahip olabilirsiniz. Microsoft, bölgenizdeki yasalar çerçevesinde izin verilen ölçüde, satılabilirlik, belirli bir amaca uygunluk ve ihlal bulunmaması ile ilgili zımni garantileri kapsam dışında bırakır.
+AVUSTRALYA İÇİN – Avustralya Tüketici Yasası kapsamında kanuni garantileriniz bulunmaktadır ve bu koşullardaki hiç bir şey bu hakları etkilemeyi amaçlamaz.
+13.	TELAFİLERİN VE ZARARLARIN SINIRLANMASI VE HARİÇ TUTULMASI. Microsoft veya tedarikçileri yalnızca 5,00 ABD dolarına kadar doğrudan zararları karşılamaktadır. Neticede oluşan, kar kaybı, özel, dolaylı veya arızi zararlar dahil diğer zararları talep edemezsiniz.
+Bu sınırlama aşağıdaki haller için geçerlidir:
+•	Üçüncü şahısların Internet sitelerindeki yazılım, hizmetler, (kod dahil) içerik veya üçüncü şahısların programları ile ilgili konular ve
+•	ilgili yasalar çerçevesinde izin verilen azami ölçüde sözleşmenin ihlalinden, bir garantinin, taahhüdün veya koşulun ihlalinden, kusursuz sorumluluktan, ihmal veya diğer haksız fiillerden kaynaklanan talepler.
+Bu sınırlama, Microsoft'un zararın oluşma olasılığını bilmesi veya bilmesinin gerekmesi halinde de geçerlidir. Yukarıdaki sınırlama veya hariç tutma, ülkeniz arızi, neticede oluşan veya diğer zararların sınırlanmasına veya hariç tutulmasına izin vermediği takdirde sizin için geçerli olmayabilir.

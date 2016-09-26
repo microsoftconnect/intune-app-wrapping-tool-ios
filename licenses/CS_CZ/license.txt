@@ -1,0 +1,37 @@
+LICENČNÍ PODMÍNKY PRO SOFTWARE SPOLEČNOSTI MICROSOFT
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Tyto licenční podmínky představují smlouvu mezi společností Microsoft Corporation (nebo některou z jejích afilací, v závislosti na tom, kde bydlíte) a vámi. Přečtěte si je, prosím. Vztahují se na software uvedený výše, který zahrnuje média, na nichž jste jej získali (pokud existují). Tyto podmínky se rovněž vztahují na:
+•	aktualizace,
+•	dodatky,
+•	internetové služby a
+•	služby odborné pomoci
+společnosti Microsoft pro tento software, pokud s těmito položkami nejsou dodávány jiné podmínky. Pokud ano, budou platit tyto jiné podmínky.
+Použitím softwaru přijímáte tyto podmínky. Pokud je nepřijímáte, software nepoužívejte.
+Dodržíte-li tyto licenční podmínky, máte následující časově neomezená práva.
+1.	PRÁVA K UŽÍVÁNÍ A INSTALACI. Můžete instalovat a užívat libovolný počet kopií softwaru na vašich zařízeních.
+2.	Obsažené programy společnosti Microsoft. Aplikace obsahuje jiné programy společnosti Microsoft. Tyto licenční podmínky se vztahují na vaše užívání těchto programů.
+3.	Programy třetích stran. Aplikace může obsahovat programy třetí strany, které vám společnost Microsoft (nikoli třetí strana) licencuje v rámci této smlouvy. Případná sdělení ohledně programu třetí strany jsou uvedena pouze pro vaši informaci.
+4.	ROZSAH LICENCE. Software se neprodává, pouze se uděluje licence k jeho užívání. Tato smlouva vám poskytuje pouze určitá práva k užívání softwaru. Všechna ostatní práva si vyhrazuje společnost Microsoft. Pokud vám rozhodné právo bez ohledu na tato omezení neposkytuje více práv, smíte software užívat pouze v souladu s podmínkami této smlouvy. Současně musíte dodržovat veškerá technická omezení v softwaru, která umožňují jeho užívání pouze určitými způsoby. Nesmíte
+•	překračovat žádná technická omezení softwaru,
+•	provádět zpětnou analýzu, dekompilaci nebo převod ze strojového kódu softwaru, s výjimkou a v rozsahu takových aktivit, které jsou výslovně povoleny rozhodným právem bez ohledu na toto omezení,
+•	vytvářet více kopií softwaru než je určeno v této smlouvě nebo povoleno rozhodným právem bez ohledu na toto omezení,
+•	zveřejnit software, aby jej ostatní mohli kopírovat,
+•	pronajímat, půjčovat nebo poskytovat software na leasing,
+•	převést software nebo tuto smlouvu na třetí stranu, nebo
+•	užívat software pro komerční hostitelské služby.
+5.	ZÁLOŽNÍ KOPIE. Smíte zhotovit jednu záložní kopii softwaru. Smíte ji použít pouze k přeinstalování softwaru.
+6.	DOKUMENTACE. Každá osoba, která má platný přístup k vašemu počítači nebo k interní síti, smí kopírovat a používat dokumentaci pouze pro vaše interní referenční účely.
+7.	VÝVOZNÍ OMEZENÍ. Software podléhá nařízením a zákonům o vývozu platným ve Spojených státech amerických. Musíte dodržovat všechny příslušné místní i mezinárodní nařízení a zákony o vývozu vztahující se na software. Mezi tyto zákony patří omezení míst určení, koncových uživatelů a koncového užívání. Další informace naleznete na adrese www.microsoft.com/exporting.
+8.	SLUŽBY ODBORNÉ POMOCI. Vzhledem k tomu, že tento software je poskytován „tak, jak stojí a leží“, nemusíme poskytovat žádné související služby odborné pomoci.
+9.	ÚPLNÁ DOHODA. Tato smlouva a podmínky pro doplňky, aktualizace, internetové služby a služby odborné pomoci, které užíváte, tvoří úplnou dohodu ohledně softwaru a služeb odborné pomoci.
+10.	ROZHODNÉ PRÁVO.
+a.	Spojené státy americké. Pokud jste tento software získali ve Spojených státech amerických, řídí se výklad této smlouvy zákony státu Washington a tyto zákony se vztahují na nároky spojené s jejím porušením, bez ohledu na kolizní ustanovení práva. Zákony státu, v němž žijete, se řídí všechny ostatní nároky, včetně nároků spojených s místními zákony na ochranu spotřebitele, se zákony proti nekalé soutěži a s občanskoprávními delikty.
+b.	Mimo území Spojených států amerických. Pokud jste software získali na území jakékoli jiné země, bude se tato smlouva řídit zákony této země.
+11.	PRÁVNÍ ÚČINKY. Tato smlouva popisuje určitá zákonná práva. Zákony vaší země vám mohou poskytovat i další práva. Můžete mít rovněž další práva ve vztahu ke straně, od níž jste software získali. Tato smlouva nemění vaše práva v rámci právního řádu vaší země, pokud právní řád vaší země nepovoluje jejich změnu.
+12.	ZŘEKNUTÍ SE ZÁRUK. Software je licencován „tak, jak stojí a leží“. Veškerá rizika spojená s jeho užíváním nesete vy. Společnost Microsoft neposkytuje žádné výslovné záruky, garance ani podmínky. V rámci vašich místních zákonů můžete mít další spotřebitelská práva či zákonné záruky, které tato smlouva nemůže změnit. V rozsahu povoleném vašimi místními zákony společnost Microsoft vylučuje předpokládané záruky prodejnosti, vhodnosti pro určitý účel a neporušení smlouvy.
+PRO AUSTRÁLII – Na základě Australského spotřebitelského práva máte zákonné záruky a záměrem žádného ustanovení těchto podmínek není ovlivňovat taková práva.
+13.	OMEZENÍ A VYLOUČENÍ PROSTŘEDKŮ NÁPRAVY A NÁHRADY ŠKODY. Od společnosti Microsoft a jejích dodavatelů můžete získat pouze náhradu za přímé škody až do výše 5 USD. Nezískáte náhradu za žádné jiné škody, včetně následných škod, ušlého zisku a zvláštních, nepřímých nebo náhodných škod.
+Toto omezení se vztahuje
+•	na všechny záležitosti související se softwarem, službami, obsahem na internetových stránkách třetích stran (včetně kódu) nebo programy třetích stran a
+•	na nároky za porušení smlouvy, porušení záruky, garance nebo podmínky, objektivní odpovědnost, nedbalost nebo jiné občanskoprávní delikty v rozsahu povoleném rozhodným právem.
+Vztahuje se rovněž na situace, kdy společnost Microsoft věděla nebo mohla vědět o možnosti vzniku těchto škod. Výše uvedené omezení nebo vyloučení se na vás nemusí rovněž vztahovat v případě, že vaše země neumožňuje vyloučení nebo omezení náhodných, následných nebo jiných škod.

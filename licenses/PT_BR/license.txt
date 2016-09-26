@@ -1,0 +1,37 @@
+LICENÇA PARA USO DE SOFTWARE MICROSOFT
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Esta licença representa um acordo entre a Microsoft Corporation (ou, de acordo com o local onde você reside, uma de suas afiliadas) e você. Por favor, leia-os. Eles se aplicam ao software acima identificado, que inclui a mídia na qual ele está contido, caso haja. A licença também se aplica aos seguintes itens da Microsoft:
+•	atualizações,
+•	suplementos,
+•	serviços via Internet e
+•	serviços de suporte
+referentes a este software, salvo se outra licença acompanhar esses itens, devendo esta última prevalecer.
+Ao usar o software, você estará aceitando estes termos. Se você não os aceitar, não use o software.
+Se você tiver em conformidade com os termos de licença, terá direitos perpétuos listados a seguir.
+1.	DIREITOS DE INSTALAÇÃO E USO. Você poderá instalar e usar quantas cópias desejar do software em seus dispositivos.
+2.	Programas da Microsoft Incluídos. O aplicativo contém outros programas da Microsoft. Estes termos de licença se aplicarão ao uso que você fizer desses programas.
+3.	Programas de Terceiros. O aplicativo poderá incluir programas de terceiros que a Microsoft, não o terceiro, licencie para você de acordo com este contrato. As notificações, se houver, relativas ao programa de terceiros serão incluídas apenas para fins informativos.
+4.	ESCOPO DA LICENÇA. O software é licenciado e não vendido. Este contrato apenas oferece a você alguns direitos de uso do software. A Microsoft reserva para si todos os outros direitos. Salvo quando a legislação aplicável oferecer mais direitos do que esta limitação, você só poderá usar o software conforme expressamente permitido neste contrato. Ao fazer isso, você deverá cumprir quaisquer limitações técnicas no software que permitam o seu uso apenas de determinadas maneiras. É vedado(a)
+•	a resolução de limitações técnicas no software;
+•	a realização de engenharia reversa, descompilação ou desmontagem do software, exceto e somente na medida em que esta atividade seja expressamente permitida pela legislação aplicável, não obstante essa limitação;
+•	fazer mais cópias do software do que aquelas especificadas neste contrato ou permitidas pela legislação aplicável, não obstante essa limitação;
+•	a publicação do software para a cópia por outras pessoas;
+•	o aluguel, o sub-licenciamento, o arrendamento ou empréstimo do software;
+•	a transferência do software ou deste contrato para terceiros; ou
+•	o uso do software para serviços de hospedagem de software comercial (“hosting”).
+5.	CÓPIA DE BACKUP. Você poderá fazer (1) uma cópia de backup do software. Você poderá usá-la apenas para reinstalar o software.
+6.	DOCUMENTAÇÃO. Qualquer pessoa que tenha acesso válido ao seu computador ou à sua rede interna poderá copiar e usar a documentação para fins de referência interna.
+7.	RESTRIÇÕES À EXPORTAÇÃO. O software está sujeito às leis e normas de exportação dos Estados Unidos. Você deverá cumprir todas as leis e normas de exportação nacionais e internacionais aplicáveis ao software. Essas leis incluem restrições de destinos, usuários finais e uso final. Para obter informações adicionais, visite a página www.microsoft.com/exporting.
+8.	SERVIÇOS DE SUPORTE. Como este software é fornecido “no estado em que se encontra”, poderemos não fornecer serviços de suporte para ele.
+9.	CONTRATO INTEGRAL. Este contrato e os termos dos suplementos, das atualizações, dos serviços via Internet e dos serviços de suporte são o contrato integral para o software e os serviços de suporte.
+10.	LEI APLICÁVEL.
+a.	Estados Unidos. Se você adquiriu o software nos Estados Unidos, as leis do Estado de Washington regerão a interpretação deste contrato e serão aplicáveis às reclamações de violação do mesmo, independentemente dos princípios de conflito de leis. As leis do Estado onde você tem domicílio regem todas as outras reclamações, incluindo leis de defesa ao consumidor, concorrência desleal e obrigações extracontratuais.
+b.	Fora dos Estados Unidos. Se você adquiriu o software em qualquer outro país, as leis de tal país serão aplicáveis.
+11.	EFEITO JURÍDICO. Este contrato descreve alguns direitos decorrentes deste licenciamento. Você poderá ter outros direitos de acordo com as leis do seu país. Você também poderá ter direitos em relação ao terceiro de quem o software foi adquirido. Este contrato não altera os seus direitos de acordo com as leis do seu país, caso as leis do seu país não o permitam.
+12.	ISENÇÃO DE RESPONSABILIDADE. O software é licenciado “no estado em que se encontra”. O risco de usá-lo é responsabilidade sua. A Microsoft não oferece garantias ou condições expressas. Você pode ter direitos de consumidor adicionais ou garantias estatutárias previstos em leis locais, que este contrato não pode alterar. Na extensão permitida pelas leis locais, a Microsoft exclui as garantias implícitas de comercialização, adequação a uma finalidade específica e não-violação.
+PARA A AUSTRÁLIA - Você tem garantias estatutárias resguardadas pela Lei de Consumo Australiana, e nada nestes termos se destina a afetar esses direitos.
+13.	LIMITAÇÃO E EXCLUSÃO DE RECURSOS E DANOS. Você pode recuperar da Microsoft e de seus fornecedores apenas danos diretos limitados a U.S. $5,00 (cinco dólares americanos). Não é possível recuperar outros danos, incluindo conseqüenciais, lucros cessantes, especiais, indiretos ou incidentais.
+Esta limitação aplica-se a:
+•	qualquer assunto relacionado ao software, aos serviços, ao conteúdo (incluindo código) em sites de Internet de terceiros, ou programas de terceiros, e
+•	reclamações por violação contratual, quebra de garantia ou condição, responsabilidade objetiva, negligência ou outra responsabilidade extracontratual, na extensão permitida pela legislação aplicável.
+Esta limitação também será aplicada ainda que a Microsoft saiba ou tivesse que saber sobre a possibilidade dos danos. A limitação ou exclusão acima poderá não se aplicar a você pelo fato de o seu país não permitir a exclusão ou limitação de danos incidentais, conseqüenciais ou outros.

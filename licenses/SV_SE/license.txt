@@ -1,0 +1,37 @@
+LICENSVILLKOR FÖR PROGRAMVARA FRÅN MICROSOFT
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Dessa licensvillkor utgör ett avtal mellan Microsoft Corporation (eller beroende på var du bor, ett av dess koncernbolag) och dig. Läs dem noga. De gäller för ovanstående programvara och omfattar alla eventuella media som programvaran levereras på. Villkoren gäller även följande produkter och tjänster från Microsoft:
+•	uppdateringar
+•	tillägg
+•	Internetbaserade tjänster
+•	supporttjänster
+avseende denna programvara om inga andra villkor medföljer dessa produkter eller tjänster. I sådant fall gäller de medföljande villkoren.
+Genom att använda programvaran accepterar du villkoren i licensavtalet. Om du inte accepterar villkoren har du inte rätt att använda programvaran.
+Om du accepterar dessa licensvillkor har du de permanenta rättigheterna nedan.
+1.	INSTALLATIONS- OCH ANVÄNDNINGSRÄTTIGHETER. Du får installera och använda obegränsat antal exemplar av programvaran på dina enheter.
+2.	Program från Microsoft som ingår. Applikationen innehåller andra Microsoft-program. Dessa licensvillkor gäller för din användning av dessa program.
+3.	Tredjepartsprogram. Applikationen kan innehålla program från tredje man som Microsoft, inte tredje man, licensierar till dig enligt detta avtal. Eventuella meddelanden om program från tredje man medföljer endast som information till dig.
+4.	LICENSENS OMFATTNING. Programvaran säljs inte, den licensieras. Detta avtal ger dig endast vissa rättigheter att använda programvaran. Microsoft förbehåller sig alla övriga rättigheter. Om inte tvingande lag trots denna begränsning beviljar dig ytterligare rättigheter får du endast använda programvaran på det sätt som uttryckligen anges i detta avtal. Du måste då följa alla tekniska begränsningarna i programvaran som endast tillåter att du använder den på ett visst sätt. Du har inte rätt att
+•	kringgå någon av programvarans tekniska begränsningar,
+•	utföra reverse engineering på, dekompilera eller ta isär koden för programvaran, förutom och endast i den utsträckning detta, trots denna begränsning, är uttryckligen tillåtet enligt tillämplig lag,
+•	framställa fler kopior av programvaran än vad som specifikt anges i detta avtal eller som trots denna begränsning tillåts enligt tillämplig lag,
+•	röja programvaran så att den kan kopieras av andra,
+•	hyra ut, leasa eller låna ut programvaran,
+•	överföra programvaran eller detta avtal till tredje part, eller
+•	använda programvaran i kommersiella hostingtjänster.
+5.	SÄKERHETSKOPIERING. Du får skapa en säkerhetskopia av programvaran. Du får endast använda den för att installera om programvaran.
+6.	DOKUMENTATION. Varje person med åtkomst till en dator som tillhör dig eller till ditt interna nätverk får kopiera och använda dokumentationen för internt, icke-kommersiellt bruk.
+7.	EXPORTRESTRIKTIONER. Amerikansk exportlagstiftning gäller för programvaran. Du måste följa all inhemsk och internationell exportlagstiftning som gäller för programvaran. Sådan lagstiftning innehåller restriktioner avseende destination, slutanvändare och slutanvändning. Mer information finns på www.microsoft.com/exporting.
+8.	SUPPORTTJÄNSTER. Eftersom denna programvara tillhandahålls ”i befintligt skick” är det inte säkert att någon support tillhandahålls för den.
+9.	AVTALET I DESS HELHET. Detta avtal samt villkoren för tillägg, uppdateringar, Internetbaserade tjänster och supporttjänster som du använder utgör hela avtalet för programvaran och supporttjänsterna.
+10.	TILLÄMPLIG LAG.
+a.	USA. Om du har förvärvat programvaran i USA skall den amerikanska delstaten Washingtons lagar gälla för tolkningen av avtalet och anspråk vid brott mot avtalet, oavsett lagvalsprinciper. Lagarna i den stat där du bor reglerar övriga anspråk, inklusive anspråk som åberopas enligt konsumentskyddslagstiftning, konkurrensrättsliga lagar och handlingar som ger rätt till utomobligatoriskt skadeståndsansvar.
+b.	Utanför USA. Om du har förvärvat programvaran i något annat land gäller lagarna i det landet.
+11.	LEGALA PÅFÖLJDER. Vissa legala rättigheter beskrivs i detta avtal. Du kan ha andra rättigheter enligt gällande rätt i ditt land. Du kan även ha rättigheter i förhållande till den part som du förvärvade programvaran ifrån. Detta avtal förändrar inte dina rättigheter enligt lagstiftningen i ditt land om lagarna i ditt land inte tillåter det.
+12.	FRISKRIVNING FRÅN GARANTIANSVAR. Programvaran licensieras ”i befintligt skick”. Du bär risken för dess användning. Microsoft lämnar inga garantier. Du kan ha ytterligare rättigheter som konsument eller lagstadgade garantier enligt lokal lagstiftning vilka detta avtal inte kan ändra. I den utsträckning tillämplig lag medger det friskriver sig Microsoft från underförstådda garantier för allmän lämplighet, lämplighet för ett särskilt ändamål och frånvaro av intrång i tredje mans rättigheter.
+FÖR AUSTRALIEN – Du har lagstadgade garantier enligt den Australiska konsumentlagstiftningen och inget i dessa villkor är avsett att påverka dessa rättigheter.
+13.	BEGRÄNSNING AV OCH FRISKRIVNING FRÅN ANSVAR FÖR SKADOR. Du kan endast få ersättning från Microsoft och dess leverantörer för direkta skador upp till ett belopp av U.S. $ 5,00. Du får inte ersättning för andra skador, inklusive följdskador, utebliven vinst, oförutsedda skador eller indirekta skador.
+Denna begränsning gäller för
+•	allt som är relaterat till programvaran, tjänster, innehåll (inklusive kod) på tredje parts webbsidor eller tredje parts program
+•	anspråk med avseende på kontraktsbrott, brott mot garantin, utfästelser eller villkor, strikt ansvar, skada orsakad av vårdslöshet eller andra handlingar som ger rätt till utomobligatoriskt skadeståndsansvar i den utsträckning som följer av tillämplig lag.
+Den gäller även om Microsoft kände till eller borde ha känt till risken för sådan skada. Om inte den ovanstående begränsningen av eller friskrivningen från ansvar för följdskador, indirekta skador eller andra skador tillåts i ditt land gäller inte denna begränsning eller friskrivning för dig.

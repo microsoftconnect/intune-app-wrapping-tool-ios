@@ -1,0 +1,37 @@
+TÉRMINOS DE LICENCIA DEL SOFTWARE DE MICROSOFT
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Los presentes términos de licencia son un contrato entre Microsoft Corporation (o, en función del país en que usted resida, una de las sociedades de su grupo) y usted. Sírvase leerlos detenidamente. Son de aplicación al software arriba mencionado, el cual incluye los soportes en los que lo haya recibido, en su caso. Estos términos de licencia también serán de aplicación a los siguientes elementos de Microsoft:
+•	actualizaciones,
+•	suplementos,
+•	servicios basados en Internet, y
+•	servicios de soporte técnico
+correspondientes a este software, a menos que existan otros términos aplicables a dichos elementos. En tal caso, se aplicarán dichos otros términos.
+Al hacer uso del software, usted estará aceptando estos términos. Si usted no los acepta, no use el software.
+Si cumple con estos términos de licencia, dispone de los derechos perpetuos a continuación.
+1.	DERECHOS DE INSTALACIÓN Y USO. Además, usted podrá instalar y utilizar cualquier número de copias del software en sus dispositivos.
+2.	Programas de Microsoft incluidos. La aplicación contiene otros programas de Microsoft. Los presentes términos de licencia se aplicarán al uso que haga de dichos programas.
+3.	Programas de terceros. La aplicación puede incluir programas de terceros cuya licencia se la otorga Microsoft, y no los terceros, conforme a este contrato. Las notificaciones, si las hay, para el programa de terceros se incluyen para su información solamente.
+4.	ALCANCE DE LA LICENCIA. El software se cede bajo licencia y no es objeto de venta. El presente contrato sólo le otorga algunos derechos de uso del software. Microsoft se reserva todos los demás derechos. A menos que la legislación aplicable le otorgue más derechos a pesar de esta limitación, usted sólo podrá utilizar el software tal como lo autoriza expresamente el presente contrato. Al hacerlo, deberá ajustarse a las limitaciones técnicas del software que sólo permiten utilizarlo de determinadas formas. Usted no podrá:
+•	eludir las limitaciones técnicas del software;
+•	utilizar técnicas de ingeniería inversa, descompilar o desensamblar el software, excepto y únicamente en la medida en que ello esté expresamente permitido por la ley a pesar de la presente limitación;
+•	hacer más copias del software de las que especifica este contrato o permite la legislación vigente a pesar de esta limitación;
+•	hacer público el software para que otros lo copien;
+•	alquilar, arrendar o ceder el software;
+•	transferir este software ni este contrato a terceros; o
+•	utilizar el software para prestar servicios de alojamiento de software comercial.
+5.	COPIA DE SEGURIDAD. Usted puede realizar una única copia de seguridad del software. Usted sólo podrá utilizarla para volver a instalar el software.
+6.	DOCUMENTACIÓN. Toda persona que tenga acceso válido a su ordenador o a la red interna puede copiar y utilizar la documentación a efectos de consulta internos.
+7.	RESTRICCIONES EN MATERIA DE EXPORTACIÓN. El software está sujeto a las leyes y disposiciones en materia de exportación de los Estados Unidos de América. Usted debe cumplir todas las leyes y disposiciones en materia de exportación internacionales y nacionales que sean de aplicación al software. Estas leyes incluyen restricciones de los destinos, usuarios finales y uso final. Para obtener información adicional, visite www.microsoft.com/exporting.
+8.	SERVICIOS DE SOPORTE TÉCNICO. Debido a que este software se presenta “tal cual,” no podemos proporcionar servicios de soporte técnico para éste.
+9.	CONTRATO COMPLETO. Este contrato y los términos aplicables a suplementos, actualizaciones, servicios basados en Internet y servicios de soporte técnico que usted utilice, constituyen el contrato completo en relación con el software y los servicios de soporte técnico.
+10.	LEGISLACIÓN APLICABLE.
+a.	Estados Unidos de América. Si usted adquirió el software en los Estados Unidos de América, la interpretación del presente contrato se regirá por la legislación del Estado de Washington, que será de aplicación a las reclamaciones por incumplimiento del mismo, independientemente de sus normas de conflicto de leyes. Para todas las demás reclamaciones, será de aplicación la legislación de su Estado de residencia, incluyendo las reclamaciones en virtud de las leyes estatales en materia de protección al consumidor, competencia desleal y responsabilidad extracontractual.
+b.	Fuera de los Estados Unidos de América. Si usted adquirió el software en otro país, será de aplicación la legislación de dicho país.
+11.	EFECTOS LEGALES. El presente contrato describe determinados derechos legales. Es posible que usted disponga de otros derechos en virtud de la legislación de su Estado o país. Asimismo, usted puede disponer de derechos frente al revendedor del software. Este contrato no modifica los derechos de los que usted dispone en virtud de la legislación de su Estado o país si dicha legislación no permite tal cosa.
+12.	RENUNCIA DE GARANTÍA. El software se cede bajo licencia “tal cual”. Usted acepta el riesgo de utilizarlo. Microsoft no otorga ninguna garantía ni condición explícitas. Es posible que la legislación local le otorgue derechos adicionales como consumidor o garantías legales que el presente contrato no pueda modificar. En la medida en que así lo permita la legislación local, Microsoft excluye las garantías implícitas de comerciabilidad, idoneidad para un fin particular y ausencia de infracción.
+PARA AUSTRALIA: La Ley del Consumidor de Australia le otorga garantías legales que ningún aspecto en estos términos intenta afectar.
+13.	LIMITACIÓN Y EXCLUSIÓN DE LA RESPONSABILIDAD. Usted podrá obtener de Microsoft y sus proveedores únicamente la indemnización de los daños directos que usted sufra efectivamente hasta la cantidad de 5 dólares estadounidenses. Usted no podrá obtener indemnización alguna por daños de otra índole, incluidos los daños consecuenciales, especiales, indirectos o incidentales, así como tampoco por lucro cesante.
+Esta limitación se aplica a
+•	cualquier cuestión relacionada con el software, servicios, contenidos (incluido el código) que se hallen en sitios de Internet de terceros, o programas de terceros, así como a
+•	reclamaciones por incumplimiento de contrato, incumplimiento de garantía o condición, responsabilidad estricta, negligencia u otra responsabilidad extracontractual hasta el límite permitido por la legislación vigente.
+También se aplica incluso si Microsoft conocía o debería haber conocido la posibilidad de que se produjesen dichos daños. También pueden producirse situaciones en las que no pueda aplicarse a su caso la limitación o exclusión precedente porque su Estado o país no admite la exclusión o limitación de daños consecuentes, incidentales o de otra índole.

@@ -1,0 +1,37 @@
+CONTRATTO DI LICENZA PER IL SOFTWARE MICROSOFT
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Le presenti condizioni di licenza costituiscono il contratto tra Microsoft Corporation (o, in base al luogo di residenza del licenziatario, una delle sue consociate) e il licenziatario. Il licenziatario deve leggerle con attenzione. Le presenti condizioni si applicano al software Microsoft sopra indicato, inclusi gli eventuali supporti di memorizzazione sui quali è stato ricevuto. Le presenti condizioni si applicano inoltre a:
+•	aggiornamenti
+•	supplementi
+•	servizi basati su Internet
+•	servizi di supporto tecnico
+relativi ai predetti software Microsoft, a meno che siano accompagnati da specifiche condizioni. In tal caso queste ultime condizioni prevalgono su quelle del presente contratto.
+Utilizzando il software, il licenziatario accetta le presenti condizioni. Qualora il licenziatario non accetti le presenti condizioni, non potrà utilizzare il software.
+Qualora si attenga alle condizioni di licenza, il licenziatario disporrà dei diritti perpetui che seguono.
+1.	INSTALLAZIONE E DIRITTI SULL’UTILIZZO. Il licenziatario potrà installare e utilizzare un numero qualsiasi di copie del software sui dispositivi del licenziatario.
+2.	Programmi Microsoft Inclusi. L’applicazione contiene altri programmi Microsoft. Le presenti condizioni di licenza si applicano all’utilizzo di tali programmi da parte del licenziatario.
+3.	Programmi di Terzi. L’applicazione potrà includere programmi di terzi che Microsoft, non i terzi, concede in licenza al licenziatario ai sensi del presente contratto. Eventuali comunicazioni per il programma di terzi sono incluse solo a scopo informativo.
+4.	AMBITO DI VALIDITÀ DELLA LICENZA. Il Software non viene venduto, ma è concesso in licenza. Il presente contratto concede al licenziatario solamente alcuni diritti di utilizzo del software. Microsoft si riserva tutti gli altri diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+•	aggirare le limitazioni tecniche presenti nel software,
+•	decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+•	effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+•	pubblicare il software per consentire ad altri di duplicarlo,
+•	concedere il software in locazione, leasing o prestito,
+•	trasferire il software o il presente contratto a terzi oppure
+•	utilizzare il software per fornire hosting di servizi commerciali.
+5.	COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+6.	DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+7.	RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+8.	SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+9.	INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+10.	LEGGE APPLICABILE.
+a.	Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b.	Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+11.	EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+12.	ESCLUSIONE DI GARANZIE. Il software è concesso in licenza “così com’è”. Il licenziatario assume ogni rischio derivante dall’utilizzo del software. Microsoft non riconosce garanzie o condizioni esplicite. Il presente contratto non modifica eventuali ulteriori diritti dei consumatori o garanzie di legge riconosciute al licenziatario dalla legge locale. Nella misura massima consentita dalla legge applicabile, Microsoft esclude eventuali garanzie implicite di commerciabilità, idoneità per uno scopo specifico e non violazione dei diritti altrui.
+PER L’AUSTRALIA: Il licenziatario è soggetto alle garanzie di legge previste ai sensi della Legge Australiana a Tutela dei Consumatori (Australian Consumer Law) e nessuna disposizione contenuta nelle presenti condizioni influisce su tali diritti.
+13.	LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. Il licenziatario avrà diritto ad ottenere da Microsoft e dai suoi fornitori solo il risarcimento per i danni diretti nel limite di cinque dollari (U.S. $5). Il licenziatario non avrà diritto ad ottenere il risarcimento per eventuali altri danni, inclusi i danni consequenziali, speciali, indiretti o accidentali o per mancato guadagno.
+Questa limitazione si applica a
+•	qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+•	controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni.

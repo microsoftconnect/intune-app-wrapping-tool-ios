@@ -1,0 +1,37 @@
+SOFTWARELICENSBETINGELSER FOR MICROSOFT 
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+Disse licensvilkår er en aftale mellem Microsoft Corporation (eller, afhængigt af hvor De bor, en af dets associerede virksomheder) og Dem. De bedes derfor venligst læse dem. Vilkårene gælder for ovennævnte samt de medier, De måtte have modtaget dem på. Licensvilkårene gælder også for alle Microsofts
+•	opdateringer
+•	supplementer
+•	internetbaserede tjenester og
+•	supportydelser
+til ovennævnte software, medmindre andre vilkår gælder for disse ydelser. Hvis det er tilfældet, gælder disse vilkår.
+Ved at tage softwaren i brug accepterer De disse vilkår. Såfremt De ikke kan acceptere vilkårene, har De ikke ret til at bruge softwaren.
+Hvis De overholder disse licensvilkår, har De nedenstående tidsubegrænsede rettigheder.
+1.	INSTALLATION OG BRUGSRETTIGHEDER. De må installere og bruge et vilkårligt antal kopier af softwaren på Deres enheder.
+2.	Medfølgende Microsoft-programmer. Programmet indeholder andre Microsoft-programmer. Disse licensvilkår gælder for Deres brug af disse programmer.
+3.	Programmer fra Tredjepart. Programmet kan indeholde programmer fra tredjemand, som Microsoft, ikke tredjemand, giver i licens til Dem i henhold til nærværende aftale. Eventuelle meddelelser til et program fra tredjemand er kun til Deres orientering.
+4.	OMFANGET AF LICENSEN. Softwaren er licenseret og ikke solgt. Denne aftale giver Dem kun visse rettigheder til at bruge softwaren. Microsoft forbeholder sig alle øvrige rettigheder. Medmindre gældende lovgivning giver Dem flere rettigheder, har De kun ret til at bruge softwaren i overensstemmelse med denne aftales udtrykkelige ordlyd. De skal samtidig overholde alle tekniske begrænsninger i softwaren, som kun tillader, at De bruger den på bestemte måder. De må ikke
+•	arbejde uden om de tekniske begrænsninger i softwaren;
+•	foretage reverse engineering, dekompilering eller disassemblering af softwaren, medmindre, og kun i det omfang, sådanne handlinger udtrykkeligt og på trods af nærværende begrænsning er tilladt i henhold til gældende lovgivning;
+•	tage flere kopier af softwaren, end det antal der er specificeret i denne aftale eller er tilladt i henhold til gældende lovgivning på trods af nærværende begrænsning;
+•	offentliggøre softwaren, så andre kan kopiere den;
+•	udleje, lease eller udlåne softwaren;
+•	overdrage softwaren eller denne aftale til tredjepart; eller
+•	bruge den til kommercielle software-hosting-tjenester.
+5.	SIKKERHEDSKOPI. De har ret til at tage én sikkerhedskopi af softwaren. De må kun benytte den til at geninstallere softwaren.
+6.	DOKUMENTATION. Enhver person, der har gyldig adgang til Deres computer eller Deres interne netværk, må kopiere og bruge dokumentationen til Deres interne referenceformål.
+7.	EKSPORTRESTRIKTIONER. Softwaren er underlagt amerikansk eksportlovgivning. De skal overholde alle danske og internationale eksportlove og -vedtægter, der gælder for softwaren. Lovgivningen omfatter restriktioner på destinationer, slutbrugere og endelig brug af softwaren. Yderligere oplysninger finder De på www.microsoft.com/exporting.
+8.	SUPPORTYDELSER. Fordi denne software er “som den er og forefindes”, yder Microsoft muligvis ikke support på den.
+9.	HELE AFTALEN. Denne aftale, og vilkårene for tillæg, opdateringer, internetbaserede tjenester og supportydelser, som De anvender, udgør hele aftalen for softwaren og supportydelserne.
+10.	GÆLDENDE LOVGIVNING.
+a.	USA. Såfremt De har erhvervet softwaren i USA, er denne aftale underlagt lovgivningen i staten Washington, som gælder for misligholdelse af aftalen uanset principperne for lovkonflikter. Lovene i den stat, hvor De er bosiddende, gælder for alle andre retskrav, herunder retskrav i henhold til statens forbrugerbeskyttelseslovgivning, love om illoyal konkurrence og for erstatning uden for kontrakt.
+b.	Uden for USA. Hvis De har erhvervet softwaren i ethvert andet land, gælder lovgivningen i det pågældende land.
+11.	JURIDISK VIRKNING. I denne aftale beskrives bestemte juridiske rettigheder. De kan have andre rettigheder i henhold til lovgivningen i Deres eget land. De kan også have rettigheder i forhold til den part, som De har erhvervet softwaren hos. Denne aftale tilsidesætter ikke Deres rettigheder i henhold til lovgivningen i Deres eget land, hvis lovgivningen i Deres eget land ikke tillader en sådan tilsidesættelse.
+12.	FRASKRIVELSE AF GARANTI. Softwaren er givet i licens, “som den er og forefindes”. De bærer selv risikoen for brug af softwaren. Microsoft stiller ingen udtrykkelige garantier, garantier eller betingelser. De kan have yderligere forbrugerrettigheder eller lovbestemte garantier i henhold til gældende lokal lovgivning, hvilket nærværende aftale ikke kan ændre. Såfremt det er tilladt i henhold til dansk lovgivning, afgiver Microsoft ingen stiltiende garantier for salgbarhed, egnethed til et bestemt formål og ikke-krænkelse af immaterielle rettigheder.
+FOR AUSTRALIEN: De har de lovbestemte garantier i henhold til den Australske forbrugerlovgivning, og intet i disse vilkår er påtænkt at skulle påvirke disse rettigheder.
+13.	BEGRÆNSNING OG FRASKRIVELSE AF ERSTATNING. De kan fra Microsoft og Microsofts leverandører kun opnå erstatning for direkte tab på op til $ 5,00. De kan ikke få dækket andre krav på erstatning, herunder for følgeskader, tabt fortjeneste, særlige, indirekte eller hændelige skader.
+Denne begrænsning gælder for
+•	ethvert forhold vedrørende softwaren, tjenester, indhold (herunder kode) på tredjeparts websteder eller tredjepartsprogrammer og
+•	erstatningskrav for kontraktbrud, garantibrud eller manglende overholdelse af betingelser, objektivt ansvar, forsømmelse eller andre erstatningskrav uden for aftaleforholdet i overensstemmelse med gældende lovgivning.
+Begrænsningen gælder også, selvom Microsoft havde eller burde have haft kendskab til risikoen for tabene. Ovenstående begrænsning eller udelukkelse gælder muligvis heller ikke for Dem, fordi der i Deres land ikke tillades udelukkelse eller begrænsning af hændelige skader, følgeskader eller andre skader.

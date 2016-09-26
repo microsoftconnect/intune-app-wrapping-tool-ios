@@ -1,0 +1,37 @@
+LICENCFELTÉTELEK MICROSOFT SZOFTVERHEZ
+MICROSOFT INTUNE APP WRAPPING TOOL FOR iOS 
+A jelen dokumentumban foglalt licencfeltételek kötelező megállapodást tartalmaznak a Microsoft Corporation (vagy, az Ön lakhelyétől függően egyik társvállalata) és Ön között. Kérjük, figyelmesen olvassa el ezen feltételeket. A feltételek a fent megnevezett szoftverre vonatkoznak — ideértve azt az adathordozót (ha van ilyen), amelyen Ön a szoftvert megkapta. A feltételek a szoftverhez tartozó bármely Microsoft:
+•	frissítésre,
+•	bővítésre,
+•	Internet-alapú szolgáltatásra és
+•	terméktámogatási szolgáltatásra
+is vonatkoznak, kivéve, ha ezen elemeket más feltételek kísérik. Ilyen esetben az utóbbi a feltételek érvényesek.
+A szoftver használatával Ön elfogadja a jelen feltételeket. Amennyiben Ön nem fogadja el a feltételeket, úgy ne használja a szoftvert.
+Amennyiben Ön betartja a jelen licencfeltételeket, a következő végleges jogokkal rendelkezik.
+1.	TELEPÍTÉSI ÉS HASZNÁLATI JOGOK. Ön telepítheti és használhatja a szoftver tetszőleges számú példányát az Ön készülékein szoftverrel.
+2.	Az alkalmazáshoz tartozó Microsoft-programok. Az alkalmazáshoz egyéb Microsoft-programok is tartoznak. Az ilyen programok Ön általi használatára a jelen licencfeltételek vonatkoznak.
+3.	Harmadik féltől származó programok. Az alkalmazás tartalmazhat olyan, harmadik féltől származó programot, amelynek licencét a jelen szerződés értelmében a Microsoft, nem pedig a harmadik fél biztosítja. A harmadik féltől származó programmal kapcsolatos bármilyen értesítés csak tájékoztatási célokat szolgál.
+4.	A LICENC TERJEDELME. Ön csak a szoftver licencét szerezte meg, a tulajdonjogát nem. A jelen szerződés csupán meghatározott jogokat biztosít Önnek a szoftver használatára. A Microsoft minden egyéb jogot fenntart. Feltéve, hogy az alkalmazandó jogszabályok ezen korlátozások ellenében nem biztosítanak Önnek több jogot, Ön a szoftvert csak a jelen szerződésben kifejezetten engedélyezett módon használhatja. Ennek során Önnek be kell tartania a szoftver minden olyan technikai korlátozását, amely annak csak meghatározott módokon történő használatát teszi lehetővé. Ön:
+•	nem kerülheti meg a szoftver bármely technikai korlátozását;
+•	nem fordíthatja és nem fejtheti vissza a szoftvert, továbbá nem elemezheti belső felépítését, kivéve akkor és csak olyan mértékben, ahogy az alkalmazandó jogszabályok ezen korlátozás ellenében azt kifejezetten megengedik;
+•	nem készíthet több másolatot a szoftverről, mint amennyit a jelen szerződés meghatároz vagy amennyit az alkalmazandó jogszabályok e korlátozással ellentétben megengednek;
+•	nem teheti közzé a szoftvert mások általi másolás céljából;
+•	a szoftvert nem adhatja kölcsön, bérbe vagy lízingbe;
+•	nem ruházhatja át a szoftvert vagy a jelen szerződést harmadik félnek; vagy
+•	kereskedelmi szoftverbefogadási (hosting) szolgáltatást sem nyújthat vele.
+5.	BIZTONSÁGI MÁSOLAT. A szoftverről egyetlen másolat készíthető. Ezt Ön kizárólag a szoftver újratelepítésére használhatja.
+6.	DOKUMENTÁCIÓ. Saját, belső tájékoztatási célra az Ön belső hálózatához érvényes hozzáférési engedéllyel rendelkező bármely személy lemásolhatja és használhatja a dokumentációt.
+7.	EXPORTKORLÁTOZÁSOK. A szoftver az Amerikai Egyesült Államok exportszabályozásának hatálya alá tartozik. Önnek be kell tartania minden hazai és nemzetközi törvényi előírást és szabályozást, amely a szoftverre vonatkozik. Ezek a törvények magukban foglalják a végfelhasználóra, illetve a rendeltetési helyre, végfelhasználókra és végfelhasználásra vonatkozó korlátozásokat is. További tájékoztatás a www.microsoft.com/exporting weboldalon olvasható.
+8.	TERMÉKTÁMOGATÁSI SZOLGÁLTATÁSOK. Mivel ez a szoftver „adott állapotában” áll rendelkezésre, lehet, hogy a nem nyújtunk hozzá terméktámogatási szolgáltatást.
+9.	A SZERZŐDÉS KIZÁRÓLAGOSSÁGA. A jelen szerződés, valamint a használt bővítések, frissítések, Internet-alapú és terméktámogatási szolgáltatások feltételei alkotják a teljes megállapodást a szoftverre és a terméktámogatási szolgáltatásokra vonatkozóan.
+10.	ALKALMAZANDÓ JOG.
+a.	Az Amerikai Egyesült Államokban. Ha Ön a szoftvert az Amerikai Egyesült Államokban szerezte be, úgy a jelen szerződés értelmezésére és az annak megsértésével kapcsolatos igények tekintetében Washington állam jogszabályai az irányadók, tekintet nélkül a nemzetközi magánjog irányadó jogot megállapító alapelveire. Minden egyéb igény tekintetében az Ön lakhelye szerinti állam törvényei az irányadók, beleértve az állami fogyasztóvédelmi törvényekkel kapcsolatos igényeket, a tisztességtelen versennyel kapcsolatos törvényeket és a szerződésen kívül okozott károk megtérítésének szabályait.
+b.	Az Amerikai Egyesült Államokon kívül. Ha Ön a szoftvert bármely más országban szerezte be, úgy az adott ország törvényei az irányadók.
+11.	HATÁLYOS JOG. Ezen szerződés bizonyos jogokat határoz meg. Előfordulhat hogy az Ön országának törvényei egyéb jogokat is biztosíthatnak Önnek. Önt azon féllel szemben is megillethetik bizonyos jogok, akitől a szoftvert beszerezte. A jelen szerződés nem módosítja az Ön országa által Önnek biztosított jogokat, amennyiben az országának törvényei ezt nem teszik lehetővé.
+12.	GARANCIA KIZÁRÁSA. A licenc az „adott állapotú” szoftverhez biztosít Önnek jogokat. Ön a szoftvert saját felelősségére használja. A Microsoft nem nyújt semmiféle kifejezett garanciát, szavatosságot vagy feltételt. A helyi törvények szerint Ön olyan további fogyasztói jogokkal vagy jogszabályi garanciákkal is rendelkezhet, amelyeket a jelen szerződés nem módosíthat. A helyi jogszabályok által megengedett legteljesebb mértékben a Microsoft ezúton elzárkózik a vélelmezett garanciavállalástól az eladhatóságra, az adott célra való alkalmazhatóságra és a jogbitorlás-mentességre vonatkozóan.
+AUSZTRÁLIÁBAN – Önt az ausztrál Fogyasztóvédelmi Törvény értelmében kötelező garanciák illetik meg, és a jelen feltételeknek nem célja e jogainak csorbítása.
+13.	JOGORVOSLATOK ÉS KÁROK KIZÁRÁSA ÉS KORLÁTOZÁSA. A Microsofttól vagy beszállítóitól csak közvetlen kár esetén, 5,00 USD erejéig kaphat kártérítést. Ön nem kaphat kártérítést semmiféle egyéb kárért, beleértve a következményi, üzleti haszon elmaradásából eredő, különleges, közvetett vagy járulékos károkat.
+Ezen korlátozás vonatkozik:
+•	bármely, a szoftverrel, szolgáltatással, harmadik fél webhelyén található tartalommal (beleértve a kódot is) vagy harmadik fél programjával kapcsolatos ügyre;
+•	szerződésszegéssel, a garanciális kötelezettségek megsértésével, garanciával vagy feltétellel, fokozott felelősséggel, hanyagsággal vagy más, szerződésen kívül okozott kárral kapcsolatos igényre az alkalmazandó jogszabályok által megengedett legteljesebb mértékben.
+A korlátozás akkor is érvényes, ha a Microsoft tudott vagy tudnia kellett volna az ilyen károk bekövetkeztének lehetőségéről. Előfordulhat, hogy a fenti korlátozás azért nem vonatkozik Önre, mert országa nem teszi lehetővé a járulékos, következményi vagy egyéb károkért való felelősség kizárását, illetve korlátozását.
