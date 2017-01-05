@@ -1,6 +1,8 @@
-#Microsoft Intune App Wrapping Tool for iOS 
+# Microsoft Intune App Wrapping Tool for iOS 
 
-Version 6.0.5
+Version [6.0.5](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/releases)
+
+See [release notes](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/releases) for more information.
 
 Use the Microsoft Intune App Wrapping Tool for iOS to modify the behavior of your existing line-of-business (LOB) apps on iOS. You will then be able to manage certain app features using Intune without requiring code changes to the original application.
 
