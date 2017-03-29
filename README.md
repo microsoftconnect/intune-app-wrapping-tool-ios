@@ -1,4 +1,4 @@
-# Microsoft Intune App Wrapping Tool for iOS 
+.# Microsoft Intune App Wrapping Tool for iOS 
 
 Version [6.1.2](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/releases)
 
@@ -7,7 +7,7 @@ See [release notes](https://github.com/msintuneappsdk/intune-app-wrapping-tool-i
 Use the Microsoft Intune App Wrapping Tool for iOS to modify the behavior of your existing line-of-business (LOB) apps on iOS. You will then be able to manage certain app features using Intune without requiring code changes to the original application.
 
 Before you install and use Microsoft Intune App Wrapping Tool for iOS you must:
-* Review the [Microsoft License Terms for Microsoft Intune App Wrapping Tool for iOS](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/blob/master/licenses/EN_US/license.txt) Print and retain a copy of the license terms for your records. By downloading and using Microsoft Intune App Wrapping Tool for iOS, you agree to such license terms. If you do not accept them, do not use the software.
+* Review the [Microsoft License Terms for Microsoft Intune App Wrapping Tool for iOS](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/blob/master/licenses/EN_US/license.txt). Print and retain a copy of the license terms for your records. By downloading and using Microsoft Intune App Wrapping Tool for iOS, you agree to such license terms. If you do not accept them, do not use the software.
 * Review the [Microsoft Intune Privacy Statement](https://docs.microsoft.com/legal/intune/microsoft-intune-privacy-statement) for information on the privacy policy of the Intune App Wrapping Tool for iOS.
 
 For instructions on using the Microsoft Intune App Wrapping Tool for iOS, please see the iOS App Wrapping Tool [documentation](https://docs.microsoft.com/intune/deploy-use/prepare-ios-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool).
