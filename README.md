@@ -1,6 +1,6 @@
 # Microsoft Intune App Wrapping Tool for iOS 
 
-Version [8.0.14](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/releases)
+Version [8.1.1](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/releases)
 
 See [release notes](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/releases) for more information.
 
@@ -12,4 +12,4 @@ Before you install and use Microsoft Intune App Wrapping Tool for iOS you must:
 
 For instructions on using the Microsoft Intune App Wrapping Tool for iOS, please see the iOS App Wrapping Tool [documentation](https://docs.microsoft.com/intune/deploy-use/prepare-ios-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool).
 
-For instructions on using the Azure Portal to author and deploy Intune MAM Policy to MAM apps for devices not MDM-enrolled with Intune, please see the [Protect line of business apps and data on devices not enrolled in Microsoft Intune](https://docs.microsoft.com/intune/deploy-use/protect-line-of-business-apps-and-data-on-devices-not-enrolled-in-microsoft-intune) in the documentation.
+For instructions on using the Azure Portal to author and deploy Intune MAM Policy to MAM apps for devices not MDM-enrolled with Intune, please see [Protect line of business apps and data on devices not enrolled in Microsoft Intune](https://docs.microsoft.com/intune/deploy-use/protect-line-of-business-apps-and-data-on-devices-not-enrolled-in-microsoft-intune) in the documentation.
