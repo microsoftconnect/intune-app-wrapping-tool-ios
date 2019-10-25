@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Input Application Package Path</key>
+	<string></string>
+	<key>Output Application Package Path</key>
+	<string></string>
+	<key>Provisioning Profile Path</key>
+	<string></string>
+	<key>Certificate Name</key>
+	<string></string>
+	<key>ADAL Authority</key>
+	<string></string>
+	<key>ADAL Client ID</key>
+	<string></string>
+	<key>ADAL Reply URI</key>
+	<string></string>
+	<key>Verbose Enabled</key>
+	<false/>
+	<key>Remove Missing Entitlements</key>
+	<false/>
+	<key>Prevent Default Build Update</key>
+	<false/>
+	<key>Build String Override</key>
+	<string></string>
+	<key>Include Citrix XenMobile App SDK (network-only variant)</key>
+	<false/>
+	<key>Extension Provisioning Profile Paths</key>
+	<array/>
+</dict>
+</plist>
