@@ -1,6 +1,8 @@
 # Microsoft Intune App Wrapping Tool for iOS 
 
-Version [17.3.1](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/releases)
+Version [17.3.2](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/releases)
+
+NOTE: We only support Intune App Wrapping Tool version 17.0.0+ We recommend always staying up to date with the latest version.
 
 See [release notes](https://github.com/msintuneappsdk/intune-app-wrapping-tool-ios/releases) for more information. GitHub users can recieve email notifications for new releases to this repo by clicking on **Releases only** from the "Watch" drop-down menu in the upper right-hand corner.
 
@@ -14,8 +16,7 @@ For instructions on using the Microsoft Intune App Wrapping Tool for iOS, please
 
 For instructions on using the Azure Portal to author and deploy Intune MAM Policy to MAM apps for devices not MDM-enrolled with Intune, please see [Protect line of business apps and data on devices not enrolled in Microsoft Intune](https://docs.microsoft.com/intune/deploy-use/protect-line-of-business-apps-and-data-on-devices-not-enrolled-in-microsoft-intune) in the documentation.
 
-Supported Xcode and iOS versions:
-| Intune SDK Version  | Supported iOS Versions  | Supported Xcode Version | Support Scope |
+Supported SDK, Xcode and iOS versions:
+| Supported Intune SDK Version  | Supported iOS Versions  | Supported Xcode Version | Support Scope |
 | ----------------------- | ---------------------------- | -----------------------------  | ----------------- |                         
 | 17.0.0+                     | 14+                               | 14                                       | Main release branch - supports all feature work and bug fixes |
-| 15.0.0+                     | 12.2+ (no support for iOS 16 features) | 13 (latest minor version) | High-priority security fixes only |
