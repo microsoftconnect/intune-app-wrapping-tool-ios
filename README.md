@@ -1,6 +1,6 @@
 # Microsoft Intune App Wrapping Tool for iOS 
 
-Version [20.1.0](https://github.com/microsoftconnect/intune-app-wrapping-tool-ios/releases)
+Version [20.1.1](https://github.com/microsoftconnect/intune-app-wrapping-tool-ios/releases)
 
 NOTE: We only support Intune App Wrapping Tool version 18.0.0+ We recommend always staying up to date with the latest version.
 
