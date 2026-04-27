@@ -4,7 +4,7 @@ Version [21.5.1](https://github.com/microsoftconnect/intune-app-wrapping-tool-io
 
 NOTE: We only support Intune App Wrapping Tool version 20.0.0+ We recommend always staying up to date with the latest version.
 
-See [release notes](https://github.com/microsoftconnect/intune-app-wrapping-tool-ios/releases) for more information. GitHub users can recieve email notifications for new releases to this repo by clicking on **Releases only** from the "Watch" drop-down menu in the upper right-hand corner.
+See [release notes](https://github.com/microsoftconnect/intune-app-wrapping-tool-ios/releases) for more information. GitHub users can receive email notifications for new releases to this repo by clicking on **Releases only** from the "Watch" drop-down menu in the upper right-hand corner.
 
 Use the Microsoft Intune App Wrapping Tool for iOS to modify the behavior of your existing line-of-business (LOB) apps on iOS. You will then be able to manage certain app features using Intune without requiring code changes to the original application.
 
