@@ -1,8 +1,8 @@
 # Microsoft Intune App Wrapping Tool for iOS 
 
-Version [21.9.1](https://github.com/microsoftconnect/intune-app-wrapping-tool-ios/releases)
+Version [22.1.1](https://github.com/microsoftconnect/intune-app-wrapping-tool-ios/releases)
 
-NOTE: We only support Intune App Wrapping Tool version 20.0.0+ We recommend always staying up to date with the latest version.
+NOTE: We only support Intune App Wrapping Tool version 21.0.0+ We recommend always staying up to date with the latest version.
 
 See [release notes](https://github.com/microsoftconnect/intune-app-wrapping-tool-ios/releases) for more information. GitHub users can recieve email notifications for new releases to this repo by clicking on **Releases only** from the "Watch" drop-down menu in the upper right-hand corner.
 
@@ -19,5 +19,5 @@ For instructions on creating Intune app protection policies, see the app protect
 Supported SDK, Xcode and iOS versions:
 | Supported Intune SDK Version  | Supported iOS Versions       | Supported Xcode Version        | Support Scope                                                 |
 | ----------------------------- | ---------------------------- | -----------------------------  | ------------------------------------------------------------- |
-| 21.0.0+                       | 17+                          | 26                             | Main release branch - supports all feature work and bug fixes | 
-| 20.0.0+                       | 16+                          | 16 (latest minor version)      | High-priority security fixes only                             |
+| 22.0.0+                       | 18+                          | 27                             | Main release branch - supports all feature work and bug fixes | 
+| 21.0.0+                       | 17+                          | 26 (latest minor version)      | High-priority security fixes only                             |
